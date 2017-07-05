@@ -1,0 +1,7 @@
+[{name:"disrupt", meaning_en:"stop something from working normally",
+sentences:[
+{
+usage:"It used to – 4 billion years ago. It’s possible that a massive collision with an asteroid might have heated up Mars's core, disrupting the magnetic fields.", 
+from:"BBC 6 mins English, Life on Mars, 我们可能是火星人"}
+]
+}]

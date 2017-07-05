@@ -1,0 +1,13 @@
+[{name:"tantalizing", meaning_en:"something you want that's almost, but not quite, within reach",
+sentences:[
+{usage:" We are now seeing that in fact Mars probably does have water – not liquid water – that there is ice just below the surface and there's even just recently tantalizing evidence that perhaps water does flow periodically... Now,", from:"BBC 6 mins English, Life on Mars, 我们可能是火星人"}
+]
+}
+
+,{name:"tangible", meaning_en:"clear enough or definite enough to be easily seen or noticed, if something is tangible, you can touch or feel it",
+sentences:[
+{usage:"Then we run experiments, build prototypes, make objects, bringing aspects of these futures to life, making them concrete and tangible", 
+from:"Ted, why we need to imagine different futures"}
+]
+}
+]

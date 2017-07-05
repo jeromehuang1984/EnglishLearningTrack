@@ -1,1 +1,14 @@
-{name:"arid", similar:"dry"}
+[{name:"arid", similar:"dry",
+sentences:[
+{usage:" But actually we could find Mars pretty cold – an average temperature would be around minus 63 degrees Celsius compared to Earth's 14 degrees Celsius. It's also very arid – or dry.", 
+from:"BBC 6 mins English, Life on Mars, 我们可能是火星人"}
+]
+}
+
+,{name:"asteroid", meaning_zh:"小行星",
+sentences:[
+{usage:"It used to – 4 billion years ago. It’s possible that a massive collision with an asteroid might have heated up Mars's core, disrupting the magnetic fields.", 
+from:"BBC 6 mins English, Life on Mars, 我们可能是火星人"}
+]
+}
+]

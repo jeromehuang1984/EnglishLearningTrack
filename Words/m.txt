@@ -1,0 +1,6 @@
+[{name:"meteorite", meaning_en:"a piece of rock from outer space",
+sentences:[
+{usage:"A meteorite – or a piece of rock from outer space – might've crashed into the Earth millions of years ago. That meteorite might have contained Martian life forms. So we might be descended from Martians!", 
+from:"BBC 6 mins English, Life on Mars, 我们可能是火星人"}
+]
+}]

@@ -1,7 +1,18 @@
-{
+[{
 name:"insidious", meaning_en:"an insidious change or problem spreads gradually without being noticed, and causes serious harm", 
 
 sentences:[
 {usage:"However, there is an even more insidious4 kind of pollution that particularly affects urban areas and invades our daily lives, and that is noise. ", from:"新概念英语第三册lesson 47 Too high a price?"}
 ]
-}
+},
+
+{
+name:"incessantly", meaning_zh:"adv. 不停地，不间断地", 
+
+sentences:[
+{usage:"A recent survey of the effects of noise revealed (surprisingly?) that dogs barking incessantly in the night rated the highest form of noise pollution on a scale ranging from 1 to 7.", from:"新概念英语第三册lesson 47 Too high a price?"}
+]},
+
+
+]
+

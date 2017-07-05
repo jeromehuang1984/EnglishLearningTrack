@@ -1,0 +1,8 @@
+[{
+name:"straggle", meaning_zh:"v. 蔓延，散乱分布", 
+
+sentences:[
+{usage:"The place consisted of a straggling unmade road which was lined on either side by small houses.", from:"新概念英语第三册lesson 48 The silent village"}
+]
+}]
+

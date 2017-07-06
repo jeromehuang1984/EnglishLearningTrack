@@ -10,4 +10,29 @@ sentences:[
 from:"Ted, why we need to imagine different futures"}
 ]
 }
+
+,{
+name:"tuck", meaning_zh:"v. 缩进，隐藏", 
+
+sentences:[
+{usage:"Few things could be more impressive than the peace that descends on deserted city streets at weekends when the thousands that travel to work every day are tucked away in their homes in the country.", from:"新概念英语第三册lesson 41 Illusions of Pastoral peace"}
+]
+}
+
+,{
+name:"treat", meaning_zh:"n. 难得的乐事，享受", 
+
+sentences:[
+{usage:"Some of my acquaintances in the country come up to town once or twice a year to visit the theatre as a special treat. ", from:"新概念英语第三册lesson 41 Illusions of Pastoral peace"}
+]
+}
+
+,{
+name:"trial", meaning_zh:"n. 讨厌的事，人", 
+
+sentences:[
+{usage:"The over-punctual can be as much a trial to others as the unpunctual.", from:"新概念英语第三册lesson 60 Too early and too late"}
+]
+}
+
 ]

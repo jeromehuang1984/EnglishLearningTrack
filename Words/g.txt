@@ -1,0 +1,17 @@
+[
+{
+name:"glint", meaning_zh:"v. 闪烁", 
+
+sentences:[
+{usage:"Nothing can be compared, he maintains, with the first cockcrow, the twittering of birds at dawn, the sight of the rising sun glinting on the trees and pastures.", from:"新概念英语第三册lesson 41 Illusions of Pastoral peace"}
+]
+}
+
+,{
+name:"glow", meaning_zh:"n. 白炽光", 
+
+sentences:[
+{usage:"There is something comforting about the warm glow shed by advertisements on cold wet winter nights.", from:"新概念英语第三册lesson 41 Illusions of Pastoral peace"}
+]
+}
+]

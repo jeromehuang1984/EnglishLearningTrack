@@ -1,0 +1,18 @@
+[
+{
+name:" boulder", meaning_zh:"n. 大石块", 
+
+sentences:[
+{usage:"What a relief it was when the boulders suddenly disappeared, giving way to a stretch of plain where the only obstacles were clumps of bushes.", from:"新概念英语第三册lesson 39 Nothing to worry about"}
+]
+}
+
+,{
+name:"bedraggled", meaning_zh:"adj. 拖泥带水的", 
+
+sentences:[
+{usage:"One day, he walked into an expensive shop after having been caught in a particularly heavy shower. He wanted to buy a $300 watch for his wife, but he was in such a bedraggled condition than an assistant refused to serve him.", from:"新概念英语第三册lesson 31-A lovable eccentric"}
+]
+}
+
+]

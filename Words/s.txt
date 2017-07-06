@@ -4,5 +4,48 @@ name:"straggle", meaning_zh:"v. 蔓延，散乱分布",
 sentences:[
 {usage:"The place consisted of a straggling unmade road which was lined on either side by small houses.", from:"新概念英语第三册lesson 48 The silent village"}
 ]
-}]
+}
+
+,{
+name:"swerve", meaning_zh:"v. 突然转向，背离；n．转向，弯曲，背离", 
+
+sentences:[
+{usage:"As we bumped over the dusty track, we swerved to avoid large boulders.", from:"新概念英语第三册lesson 39 Nothing to worry about"}
+]
+}
+
+,{
+name:"scoop", meaning_zh:"n.铲子，舀取，独家新闻；v.汲取，舀取，抢先登出, 挖出", 
+
+sentences:[
+{usage:"The wheels scooped9 up stones which hammered ominously10 under the car.", from:"新概念英语第三册lesson 39 Nothing to worry about"}
+]
+}
+
+,{
+name:"shrewd", meaning_zh:"adj. 精明的", 
+
+sentences:[
+{usage:"He was a shrewd and wealthy businessman, but most people in the town hardly knew anything about this side of his life.", from:"新概念英语第三册lesson 31-A lovable eccentric"}
+]
+}
+
+,{
+name:"snob", meaning_zh:"n. 势利小人，谄上欺下的人", 
+
+sentences:[
+{usage:"Dickie disliked snobs intensely. Though he owned a large car, he hardly ever used it, preferring always to go on foot.", from:"新概念英语第三册lesson 31-A lovable eccentric"}
+]
+}
+
+,{
+name:"stage", meaning_zh:"v. 暗中策划", 
+
+sentences:[
+{usage:"It took him four years to stage this elaborate joke simply to prove that critics do not always know what they are talking about.", from:"新概念英语第三册lesson 31-A lovable eccentric"}
+]
+}
+
+
+]
 

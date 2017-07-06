@@ -1,0 +1,34 @@
+[
+{
+name:"perturb", meaning_zh:"v. 使不安", 
+
+sentences:[
+{usage:"Even though the road was littered with boulders and pitted with holes, Bruce was not in the least perturbed.", from:"新概念英语第三册lesson 39 Nothing to worry about"}
+]
+}
+
+,{
+name:"pastoral", meaning_zh:"adj. 田园的", 
+
+sentences:[
+{usage:" If you can do without the few pastoral pleasures of the country, you will find the city can provide you with the best that life can offer.", from:"新概念英语第三册lesson 41 Illusions of Pastoral peace"}
+]
+}
+
+,{
+name:"pasture", meaning_zh:"n. 牧场", 
+
+sentences:[
+{usage:"Nothing can be compared, he maintains, with the first cockcrow, the twittering of birds at dawn, the sight of the rising sun glinting on the trees and pastures.", from:"新概念英语第三册lesson 41 Illusions of Pastoral peace"}
+]
+}
+
+,{
+name:"puncture", meaning_zh:"v. 刺破（轮胎）", 
+
+sentences:[
+{usage:"If no accidents occur on the way, like punctured tires, diversions of traffic, sudden descent of fog, they will be on time.", from:"新概念英语第三册lesson 60 Too early and too late"}
+]
+}
+
+]

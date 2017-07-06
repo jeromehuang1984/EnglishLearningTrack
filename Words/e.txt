@@ -1,0 +1,42 @@
+[
+{
+name:"extol", meaning_zh:"v. 赞美，颂扬", 
+
+sentences:[
+{usage:"Though they extol the virtues of the peaceful life, only one of them has ever gone to live in the country and he was back in town within six months.", from:"新概念英语第三册lesson 41 Illusions of Pastoral peace"}
+]
+}
+
+，{
+name:"exotic", meaning_zh:"adj. 导乎寻常的，外来的", 
+
+sentences:[
+{usage:"Country people run wild when they go shopping in the city and stagger home loaded with as many of the exotic items as they can carry.", from:"新概念英语第三册lesson 41 Illusions of Pastoral peace"}
+]
+}
+
+，{
+name:"eccentric", meaning_zh:"n.（行为）古怪人", 
+
+sentences:[
+{usage:"True eccentrics never deliberately set out to draw attention to themselves. ", from:"新概念英语第三册lesson 31-A lovable eccentric"}
+]
+}
+
+，{
+name:"eccentricity", meaning_zh:"n. 怪僻", 
+
+sentences:[
+{usage:"He was known to us all as Dickie and his eccentricity had become legendary long before he died.", from:"新概念英语第三册lesson 31-A lovable eccentric"}
+]
+}
+
+，{
+name:"elaborate", meaning_zh:"adj. 精心构思的", 
+
+sentences:[
+{usage:"It took him four years to stage this elaborate joke simply to prove that critics do not always know what they are talking about.", from:"新概念英语第三册lesson 31-A lovable eccentric"}
+]
+}
+
+]

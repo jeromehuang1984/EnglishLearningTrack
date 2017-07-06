@@ -1,0 +1,10 @@
+[
+{
+name:"convention", meaning_zh:"n. 习俗，风俗", 
+
+sentences:[
+{usage:"They disregard social conventions without being conscious that they are doing anything extraordinary.", from:"新概念英语第三册lesson 31-A lovable eccentric"}
+]
+}
+
+]

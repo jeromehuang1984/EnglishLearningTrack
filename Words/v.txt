@@ -1,0 +1,10 @@
+[
+{
+name:"virtually", meaning_zh:"adv. 几乎，差不多", 
+
+sentences:[
+{usage:"My friend fails to mention the long and friendless winter evenings in front of the TV -- virtually the only form of entertainment.", from:"新概念英语第三册lesson 41 Illusions of Pastoral peace"}
+]
+}
+
+]

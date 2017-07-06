@@ -11,4 +11,27 @@ sentences:[
 from:"BBC 6 mins English, Life on Mars, 我们可能是火星人"}
 ]
 }
+
+,{name:"astride", meaning_zh:"prep. 骑，跨",
+sentences:[
+{usage:"Bruce went into a low gear and drove at a terrifying speed, keeping the front wheels astride the crack as he followed its zigzag course.", 
+from:"新概念英语第三册lesson 39 Nothing to worry about"}
+]
+}
+
+,{name:"abstruse", meaning_zh:"adj. 深奥的",
+sentences:[
+{usage:"The intellectual, who is working on some abstruse problem, has everything coordinated and organized for the matter in hand.", 
+from:"新概念英语第三册lesson 60 Too early and too late"}
+]
+}
+
+,{
+name:"adamant", meaning_zh:"adj. 坚定的，不动摇的", 
+
+sentences:[
+{usage:"But the station master was adamant: rules could not be broken and she had to watch that train disappear towards her destination while she was left behind.", from:"新概念英语第三册lesson 60 Too early and too late"}
+]
+}
+
 ]

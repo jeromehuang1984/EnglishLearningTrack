@@ -4,4 +4,47 @@ sentences:[
 usage:"It used to – 4 billion years ago. It’s possible that a massive collision with an asteroid might have heated up Mars's core, disrupting the magnetic fields.", 
 from:"BBC 6 mins English, Life on Mars, 我们可能是火星人"}
 ]
-}]
+}
+
+,{
+name:"dubious", meaning_zh:"adj. 可疑的，怀疑的", 
+
+sentences:[
+{usage:" Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me.", from:"新概念英语第三册lesson 41 Illusions of Pastoral peace"}
+]
+}
+
+,{
+name:"deserted", meaning_zh:"adj. 荒芜的,被遗弃的,空旷的", 
+
+sentences:[
+{usage:"Few things could be more impressive than the peace that descends on deserted city streets at weekends when the thousands that travel to work every day are tucked away in their homes in the country.", from:"新概念英语第三册lesson 41 Illusions of Pastoral peace"}
+]
+}
+
+,{
+name:"disregard", meaning_zh:"v. 不顾，无视", 
+
+sentences:[
+{usage:"Punctuality is a necessary habit in all public affairs in civilized society. Without it, nothing could ever be brought to a conclusion; everything would be in state of chaos. Only in a sparsely-populated rural community is it possible to disregard it.", from:"新概念英语第三册lesson 60 Too early and too late",
+trans:"准时是文明社会中进行一切社交活动时必须养成的习惯。不准时将一事无成，事事都会陷入混乱不堪的境地。只有在人口稀少的农村，才可以忽视准时的习惯。"}
+]
+}
+
+,{
+name:"diversion", meaning_zh:"n. 改道，绕道, 
+
+sentences:[
+{usage:"If no accidents occur on the way, like punctured tires, diversions of traffic, sudden descent of fog, they will be on time.", from:"新概念英语第三册lesson 60 Too early and too late"}
+]
+}
+
+,{
+name:"dumb", meaning_zh:"v. 把……砰的一声抛下", 
+
+sentences:[
+{usage:"Dickie left the shop without a word and returned carrying a large cloth bag. As it was extremely heavy, he dumped it on the counter.", from:"新概念英语第三册lesson 31-A lovable eccentric"}
+]
+}
+
+]

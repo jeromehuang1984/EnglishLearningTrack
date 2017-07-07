@@ -31,4 +31,22 @@ sentences:[
 ]
 }
 
+,{
+name:"poppy", meaning_zh:"n. 罂粟花；罂粟属植物；深红色", 
+
+sentences:[
+{usage:"Oh yes; you can save our friend, the Cowardly Lion, who is asleep in the poppy bed", 
+from:"The wonderful wizard of OZ, chapter 9, the queen of the field mice"}
+]
+}
+
+,{
+name:"peg", meaning_zh:"n. 钉；桩；借口；琴栓; vt. 限制；钉木钉", 
+
+sentences:[
+{usage:"He fasten it together with wooden pegs and made four wheels out of shourt pieces of a big tree trunk.", 
+from:"The wonderful wizard of OZ, chapter 9, the queen of the field mice"}
+]
+}
+
 ]

@@ -1,0 +1,13 @@
+[
+{
+name:"lest", meaning_zh:"conj. 唯恐，以免；担心", 
+
+sentences:[
+{usage:"\\"Good-bye!\\" they all answered, and away the Queen ran, while Dorothy held Toto tightly lest he should run after her and frighten her",
+from:"The wonderful wizard of OZ, chapter 9, the queen of the field mice"}
+]
+}
+
+
+
+]

@@ -7,4 +7,12 @@ sentences:[
 ]
 }
 
+,{
+name:"curtsy", meaning_zh:"vi. 行屈膝礼, n. 屈膝礼", 
+
+sentences:[
+{usage:"Dorothy nodded gravely and the Queen made a curtsy, after which she became quite friendly with the little girl.", from:"The wonderful wizard of OZ, chapter 9, the queen of the field mice"}
+]
+}
+
 ]

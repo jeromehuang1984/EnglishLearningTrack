@@ -7,4 +7,12 @@ sentences:[
 ]
 }
 
+,{
+name:”fussy”, meaning_zh:"adj. 大惊小怪的，小题大作的 ", 
+
+sentences:[
+{usage:"The old lady though he the was a fussy creature, but since the porter agreed with him, she rang up her daughter and asked for her help in what she described as a little spot of bother.", from:"新概念英语第三册lesson 58 A spot of bother"}
+]
+}
+
 ]

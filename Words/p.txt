@@ -49,4 +49,11 @@ from:"The wonderful wizard of OZ, chapter 9, the queen of the field mice"}
 ]
 }
 
+,{name:”prudent”, meaning_zh:”adj. 谨慎的；精明的；节俭的”,
+sentences:[
+{usage:"Her first impulse was to go round all the rooms looking for the thieves, but then she decided that at her age it might be more prudent to have someone with her, so she went to fetch the porter from his basement. ”, 
+from:"新概念英语第三册lesson 58 A spot of bother"}
+]
+}
+
 ]

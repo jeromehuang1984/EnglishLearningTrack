@@ -8,6 +8,10 @@ from:"The wonderful wizard of OZ, chapter 9, the queen of the field mice"}
 ]
 }
 
+,{
+name:"like-minded”, meaning_zh:"adj. 志趣相投的", 
 
+sentences:[
+{usage:"One wants to meet like-minded collectors, to get advice, to compare notes, to exchange articles, to show off the latest find.", from:"新概念英语第三册lesson 59 Collecting"}
 
 ]

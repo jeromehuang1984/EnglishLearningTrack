@@ -7,4 +7,12 @@ sentences:[
 ]
 }
 
+{
+name:”veritable”, meaning_zh:"adj. 真正的，地地道道的", 
+
+sentences:[
+{usage:"The chaos was inconceivable. She had lived in the flat for thirty years and was a veritable magpie at hoarding; and it seemed as though everything she possessed had been tossed out and turned over and over. ", from:"新概念英语第三册lesson 58 A spot of bother"}
+]
+}
+
 ]

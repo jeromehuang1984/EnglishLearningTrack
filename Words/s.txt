@@ -46,6 +46,13 @@ sentences:[
 ]
 }
 
+,{
+name:”sketch”, meaning_zh:"n. 草图，图样", 
+
+sentences:[
+{usage:"I know someone who always cuts sketches out from newspapers of model clothes that she would like to buy if she had the money.", from:"新概念英语第三册lesson 59 Collecting"}
+]
+}
 
 ]
 

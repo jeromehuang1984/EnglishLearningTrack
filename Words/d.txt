@@ -47,4 +47,12 @@ sentences:[
 ]
 }
 
+,{
+name:”discard”, meaning_zh:"v. 丢弃", 
+
+sentences:[
+{usage:” At least sorting out the things she should have discarded years ago was now being made easier for her. ”, from:"新概念英语第三册lesson 58 A spot of bother"}
+]
+}
+
 ]

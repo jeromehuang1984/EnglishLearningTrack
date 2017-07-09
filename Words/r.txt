@@ -31,4 +31,13 @@ sentences:[
 ]
 }
 
+,{
+name:"ransacked", meaning_zh:"v.彻底搜查( ransack的过去式和过去分词 )；抢劫，掠夺", 
+
+sentences:[
+{usage:"Then a police inspector arrived with a constable and she told them of her discovery of the ransacked flat.", from:"新概念英语第三册lesson 58 A spot of bother"}
+]
+}
+
+
 ]

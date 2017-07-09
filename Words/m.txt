@@ -3,4 +3,19 @@ sentences:[
 {usage:"A meteorite – or a piece of rock from outer space – might've crashed into the Earth millions of years ago. That meteorite might have contained Martian life forms. So we might be descended from Martians!", 
 from:"BBC 6 mins English, Life on Mars, 我们可能是火星人"}
 ]
-}]
+}
+
+,{name:”mania”, meaning_zh:”n. 癖好”,
+sentences:[
+{usage:"Collecting small items can easily become a mania.”, 
+from:"新概念英语第三册lesson 59 Collecting"}
+]
+}
+
+,{name:”monstrous”, meaning_zh:”adj.巨大的；恐怖的；可耻的，丢脸的”,
+sentences:[
+{usage:" She was thinking that she must reprimand her home help the next morning for such a monstrous piece of negligence, ”, 
+from:"新概念英语第三册lesson 58 A spot of bother"}
+]
+}
+]

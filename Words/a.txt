@@ -34,4 +34,20 @@ sentences:[
 ]
 }
 
+,{
+name:"amass”, meaning_zh:"v. 积聚", 
+
+sentences:[
+{usage:"People tend to amass possessions, sometimes without being aware of doing so.", from:"新概念英语第三册lesson 59 Collecting"}
+]
+}
+
+,{
+name:"attics”, meaning_zh:"n. 阁楼", 
+
+sentences:[
+{usage:"They leave unwanted objects in drawers, cupboards and attics for years, in the belief that they may one day need just those very things.", from:"新概念英语第三册lesson 59 Collecting"}
+]
+}
+
 ]

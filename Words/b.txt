@@ -15,4 +15,13 @@ sentences:[
 ]
 }
 
+,{
+name:"balcony", meaning_zh:"n. 阳台", 
+
+sentences:[
+{usage:” The inspector began to look for fingerprints, while the constable checked that the front door locks had not been forced, thereby20 proving that the burglars had either used skeleton keys or entered over the balcony.”, from:"新概念英语第三册lesson 58 A spot of bother"}
+]
+}
+
+
 ]

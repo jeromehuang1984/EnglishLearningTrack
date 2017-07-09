@@ -35,4 +35,12 @@ sentences:[
 ]
 }
 
+,{
+name:”toss”, meaning_zh:"v 扔", 
+
+sentences:[
+{usage:"and it seemed as though everything she possessed had been tossed out and turned over and over. ", from:"新概念英语第三册lesson 58 A spot of bother"}
+]
+}
+
 ]

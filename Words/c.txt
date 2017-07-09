@@ -15,4 +15,36 @@ sentences:[
 ]
 }
 
+,{
+name:"clutter", meaning_zh:"n. 杂物”, 
+
+sentences:[
+{usage:" Those who never have to move house become indiscriminate collectors of what can only be described as clutter. ", from:"新概念英语第三册lesson 59 Collecting"}
+]
+}
+
+,{
+name:”confine”, meaning_zh:"n. 界限，边界;约束；限制 vt. 限制；禁闭", 
+
+sentences:[
+{usage:"Soon the hobby leads to travel, perhaps to a meeting in another town, possibly a trip abroad in search of a rare specimen, for collectors are not confined to any one country.", from:"新概念英语第三册lesson 59 Collecting"}
+]
+}
+
+,{
+name:”contented”, meaning_zh:"adj. 心满意足的", 
+
+sentences:[
+{usage:"In this way self-confidence grows, first from mastering a subject, then from being able to talk about it. Collecting, by occupying spare time so constructively, makes a person contented, with no time for boredom.", from:"新概念英语第三册lesson 59 Collecting"}
+]
+}
+
+,{
+name:”composure”, meaning_zh:"n. 镇静，沉着", 
+
+sentences:[
+{usage:"Then, her composure regained6, she was ready to set off with the porter's assistance to search for nay intruders who might still be lurking9 in her flat.", from:"新概念英语第三册lesson 58 A spot of bother"}
+]
+}
+
 ]

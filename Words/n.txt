@@ -1,0 +1,10 @@
+[
+{
+name:”nay”, meaning_zh:"adv.不；n.反对票，投反对票者", 
+
+sentences:[
+{usage:"Then, her composure regained, she was ready to set off with the porter's assistance to search for nay intruders who might still be lurking9 in her flat.", from:"新概念英语第三册lesson 58 A spot of bother"}
+]
+}
+
+]

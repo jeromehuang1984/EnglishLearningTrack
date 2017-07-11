@@ -1,0 +1,131 @@
+from: BBC 6 Minute English, miraculous survival
+name: scaffold
+usage: they used a scaffold, which is a structure of interconnected pipes and boards that creates a frame or shape.
+
+name:distraught, onlooker, alleyway
+usage:When firefighters arrived on the scene, they found a crowd of distraught onlookers points towards an alleyway.
+
+name:crouch, clutch
+usage:but Alcides was found crouching in a pile of twisted metal still clutching the controls of the scaffold.
+
+name:unscathed
+usage:Did he escape the accident unscathed?
+
+name: unprecedented
+usage: I don’t know what adjective you’d care to use: unprecedented, extraordinary… if you are a believer in miracles, this would be one.
+
+name: canoe
+usage: When I was 14 I fell out of a canoe into a river and got stuck between the boat and a rock with my head underwater.
+
+name:clutch
+usage:Ah, you’re clutching at straws, Neil, which means you are trying to find a reason or hope to succeed when it’s extremely unlikely.
+phrase:clutch at straws
+
+from: BBC 6 Minute English, 第236期:艺术还是破坏
+name:mural
+usage: It's a mural about the Spanish Civil War.
+
+name:deface
+usage:It was defaced by a man called Vladimir Umanets who considers his actions to be neither illegal, or destructive.
+
+name: sombre
+usage:The reporter described it as sombre. That means dark and serious.
+
+name: inspiration, surrealist
+usage:"The message he wrote on the Rothko painting was "A potential Piece of Yellowism. "He takes inspiration from the surrealist artist Marcel Duchamp.
+
+name: scrawl, vandalism
+usage:That, according to many commentators, is not the same as walking up to a much-loved painting in an art gallery and scrawling on it with a black marker pen, which they consider not to be the work of an artist, but an act of vandalism.
+
+name: urinal
+usage:In 1917, Duchamp bought a urinal, which is a kind of toilet for men, wrote his name on it and declared it a work of art.
+
+from:BBC英语六分钟 第238期:转基因奶牛
+name: pollen
+phrase: hay fever
+usage:I get hay fever in the summer; that happens when you have an allergy to pollen from plants or trees.
+trans:我夏天会感染花粉症，花粉症指的是人对植物或树木的花粉过敏。
+
+name:sneeze, itchy
+usage: It's horrible. I start sneezing, and my eyes become red and itchy, my nose runs and I sometimes get a real headache.
+trans:太可怕了。我开始打喷嚏，双眼又红又痒，流鼻涕，有时还会头疼。
+
+name: culprit
+usage:Now researchers in New Zealand have cut out one of the main culprits - the protein beta-lactoglobulin. 
+trans:新西兰的研究人员切除了导致过敏的元凶——蛋白质β——乳球蛋白。
+
+name: disrupt
+usage:They added new genetic material to disrupt its manufacturing process in a technique called RNA interference.
+trans:他们通过RNA干扰技术添加了新的遗传物质来破坏过敏元凶的生产过程。
+
+name: spectacular
+usage: Other scientists said it was a spectacular study, while campaign groups have questioned the ethics of genetically modifying farm animals.
+trans:其他科学家认为，这一研究十分惊人。而一些运动团体曾质疑对农场动物进行转基因处理的道德伦理问题。
+
+from:BBC英语六分钟 第235期:毒品合法化
+name: Commission, offence
+usage:Monday's report from the UK Drug Policy Commission says the way to reduce this number is to make some offences less serious. 
+trans:周一，英国毒品政策委员会的报告称，减轻罪行能减少被送上法庭的人数。
+
+phrase: on a par with
+usage:So, the argument is that a limited amount of drug taking is on a par with other bad habits which are not usually considered as dangerous as drug taking.
+trans:所以，报告认为吸食一定量的毒品与其他坏习惯一样通常不会有太大的危害。
+
+from:BBC英语六分钟 第233期:叹气
+name:cardio, respiratory, mechanism
+usage:It's a typically cardio-respiratory kind of resetting mechanism, and most mammals will engage in sighing of some kind. Because people who don't sigh would eventually die. It is a survival mechanism.
+trans:这是一种典型的心肺重置机制，大多数哺乳动物都会叹气。因为不叹气的人会死掉。这是一种生存机制。
+
+name: alveoli, collapse
+usage:And without sighing, these alveoli would collapse and we would die. We need the alveoli to transfer oxygen from our lungs to our blood.
+trans:没有叹气，这些肺泡就会破裂，我们就会死亡。我们需要用肺泡把肺中的氧气送至血液。
+
+name: reflex
+usage:Thankfully, we don't have to think about this need to reset our lungs. Sighing is in fact a reflex.
+trans:幸好我们不用专门想着重置肺部活动。叹气实际上是一种本能反应。
+
+phrase: breath a sign of relief
+usage:That's right. Now, I breathed a sigh of relief when I found my mobile phone the other day. I thought I'd lost it. It was new. I was so pleased when I found it! What about you, Dan?
+trans:没错。前几天，找到我的手机时，我如释重负。我以为我把它弄丢了。这还是个新手机呢。找到它的时候，我超级开心。你呢，丹？
+
+name: resignation, resigned
+usage:And resignation is what we feel when we finally accept that something bad has happened, that we can't change. We feel resigned to something.
+trans:发生了不好的事情，而我们又无法改变，只能接受事实的时候，我们就会有无奈的感觉。对某事感到很无奈。
+
+name: reckon
+usage:Well, I said, I reckon they sigh about 40 times an hour.
+trans:我认为他们每小时叹气次40。
+
+from:BBC英语六分钟 第232期:多重职业
+name: portfolio
+usage: It's one reason why more and more people have what we call portfolio careers these days – so they can do a bit of everything.
+trans: 越来越多的人拥有组合型职业的原因之一是：这样他们就可以做很多事
+
+name: portfolio
+usage: A portfolio, as a noun, means a case for carrying large pictures – or it can mean the collection of pictures themselves. But we also use it as an adjective to describe groups of certain things – in this case, careers.
+trans: portfolio作名词时，是指装有很多照片的盒子，或者作品集。我们将其用作形容词时，它描述的是某些事物的组合。这里，我们描述的是职业。
+
+name: psychotherapist, luthier
+usage:There's a guy that I mention who is a psychotherapist and a luthier – he makes violins - and he's very successful in both.
+trans:我知道一个人，他既是精神治疗医师，也是制琴师——制作小提琴的人。他在这两个领域都很成功。
+
+name: entrepreneur
+phrase: make ends meet
+usage:She says this trend is more than just about working to make ends meet – in other words, working to make enough money to live. And she used another interesting expression – a serial entrepreneur – what's that exactly?
+trans: 她说这种趋势不仅仅是为了收支平衡，换句话说，工作是为了挣足够的钱来生存。她还用了另一个有趣的表达——连续创业家，这是什么意思呢？
+
+phrase: add another string to my bow
+usage:I'd love to start a business…First, I need to learn a new skill - add another string to my bow and learn yoga. Then maybe one day I'll run a yoga business.
+trans:我想自己创办生意。首先，我需要学习一项新技能——给我的弓多加一根弦，也就是学习瑜伽。然后也许有一天我可以创办和瑜伽相关的生意。
+
+
+
+
+
+
+
+
+
+
+
+

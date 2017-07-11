@@ -1,0 +1,174 @@
+from: 新概念英语第三册lesson 36 A chance in a million
+name: credulous
+usage: We are less credulous than we used to be.
+
+name: obscure
+usage:Readers happily accepted the fact that an obscure maidservant was really the hero's mother.
+
+name: presume
+usage:A long-lost brother, who was presumed dead, was really alive all the time and wickedly plotting to bring about the hero's downfall.
+
+name: plot
+usage:A long-lost brother, who was presumed dead, was really alive all the time and wickedly plotting to bring about the hero's downfall.
+
+name: conspire
+usage:Yet, in real life, circumstances do sometimes conspire to bring about coincidences which anyone but a nineteenth century novelist would find incredible.
+
+name:resemblance
+usage:After they had gone on, Mrs. Bussman commented on the workman's close resemblance to her husband and even suggested that he might be his brother.
+
+name:scorn
+usage:Franz poured scorn on the idea, pointing out that his brother had been killed in action during the war.
+
+name:acquaint
+usage:Though Mrs. Busssman fully acquainted with this story, she thought that there was a chance in a million that she might be right.
+
+from:新概念英语第三册lesson 37 The Westhaven Express
+name:dislocate
+usage:Only an exceptionally heavy snowfall might temporarily dislocate railway services.
+
+name:asterisk
+usage: A tiny asterisk conducted me to a footnote at the bottom of the page.
+
+name:dawdle
+meaning_zh: v. 慢吞吞地动或做
+usage:But when the train dawdled at station after station, I began to wonder, It suddenly dawned on me that this express was not roaring down the line at ninety miles an hour, but barely chugging along at thirty.
+
+name:chug
+meaning_zh: v. 咔嚓咔嚓地响
+usage:But when the train dawdled at station after station, I began to wonder, It suddenly dawned on me that this express was not roaring down the line at ninety miles an hour, but barely chugging along at thirty.
+
+name:lodge
+usage:I determined to lodge a complaint as soon as we arrived.
+
+from:新概念英语第三册lesson 38 The first calender
+name: deduce
+usage: He has to deduce what he can from the few scanty clues available.
+
+name:assumption
+usage:Recent scientific evidence seems to indicate that this assumption is incorrect.
+
+name:engrave
+usage:Historians have long been puzzled by dots, lines and symbols which have been engraved on walls, bones, and the ivory tusks of mammoths
+
+name: nomad
+usage:The nomads who made these markings lived by hunting and fishing during the last Ice Age which began about 35,000 B.C. and ended about 10,000 B.C. 
+
+name:correlate
+usage: By correlating markings made in various parts of the world, historians have been able to read this difficult code.
+
+name:advent
+usage:Up to now, historians have assumed that calendars came into being with the advent of agriculture, for then man was faced with a real need to understand something about the seasons.
+
+name:phase
+usage:They have found that it is connected with the passage of days and the phases of the moon. 
+
+name:shed
+usage:Even seemingly insignificant remains can shed interesting light on the history of early man.
+
+from:新概念英语第三册lesson 35 Justice was done
+name:arduous
+usage:Those who seek it undertake an arduous journey and can never be sure that they will find it. 
+
+name:machinery
+usage:Justice is part of the complex machinery of the law.
+
+name:interference
+usage:Reward or punishment are meted out quite independent of human interference.
+
+name:premises
+meaning_zh: n. 房屋
+usage:When a thief was caught on the premises of large jewellery store on morning, the shop assistants must have found it impossible to resist the temptation to say 'it serves him right.'
+
+name:promptly
+usage:As the cry was repeated several times, she ran to tell the manager who promptly rang up the fire brigade.
+
+name:chimney
+usage:They located the right chimney by tapping at the walls and listening for the man's cries. 
+
+name:chip
+usage:After chipping through a wall which was eighteen inches thick, they found that a man had been trapped in the chimney.
+related:chop
+
+name:muffle
+usage:
+
+from:新概念英语第三册lesson 49:The ideal servant
+name:rambling
+usage:She had a huge, rambling country house called 'The Gables'.
+
+name: sentimentally
+usage: She was sentimentally attached to this house, for even though it was far too big for her needs, she persisted in living there long after her husband's death.
+
+name: lavishly
+usage:Before she grew old, Aunt Harriet used to entertain lavishly.
+
+name:immaculate
+usage: No matter how many guests were present, the great house was always immaculate.
+
+name:parquet
+usage:The parquet floors shone like mirrors; highly polished silver was displayed in gleaming glass cabinets;
+
+name:gleam
+usage:The parquet floors shone like mirrors; highly polished silver was displayed in gleaming glass cabinets;
+
+name:preside
+usage:Aunt Harriet presided over an invisible army of servants that continuously scrubbed, cleaned, and polished.
+
+name:scrub
+usage:Aunt Harriet presided over an invisible army of servants that continuously scrubbed, cleaned, and polished.
+
+name:fickleness
+usage:While she always criticized the fickleness of human nature, she carried on an unrelenting search for the ideal servant to the end of her days, even after she had been sadly disillusioned by Bessie.
+
+name:disillusion
+usage:she carried on an unrelenting search for the ideal servant to the end of her days, even after she had been sadly disillusioned by Bessie.
+
+name:unrelenting
+usage:While she always criticized the fickleness of human nature, she carried on an unrelenting search for the ideal servant to the end of her days, even after she had been sadly disillusioned by Bessie.
+
+name:enlightened
+usage: Though my aunt pursued what was, in those days, an enlightened policy, in that she never allowed her domestic staff to work more than eight hours a day, she was extremely difficult to please. 
+
+name: industriousness
+usage:Aunt Harriet could not find words to praise Bessie's industriousness and efficiency. 
+
+name: mumble
+usage: She bumped into the furniture and kept mumbling about the guests.
+
+name: trip
+usage:When she came in with the last course -- a huge pudding -- she tripped on the carpet and the pudding went flying through the air,
+
+name:mirth
+usage:Though this caused great mirth among the guests, Aunt Harriet was horrified.
+
+name:reluctantly
+usage:She reluctantly came to the conclusion that Bessie was drunk. 
+
+name:departure
+usage:After her departure, Aunt Harriet discovered that there were piles of empty wine bottles of all shapes and sizes neatly stacked in what had once been Bessie's wardrobe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

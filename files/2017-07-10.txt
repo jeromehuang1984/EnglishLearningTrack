@@ -1,0 +1,399 @@
+from: 新概念英语第三册lesson 36 A chance in a million
+name: credulous
+usage: We are less credulous than we used to be.
+
+name: obscure
+usage:Readers happily accepted the fact that an obscure maidservant was really the hero's mother.
+
+name: presume
+usage:A long-lost brother, who was presumed dead, was really alive all the time and wickedly plotting to bring about the hero's downfall.
+
+name: plot
+usage:A long-lost brother, who was presumed dead, was really alive all the time and wickedly plotting to bring about the hero's downfall.
+
+name: conspire
+usage:Yet, in real life, circumstances do sometimes conspire to bring about coincidences which anyone but a nineteenth century novelist would find incredible.
+
+name:resemblance
+usage:After they had gone on, Mrs. Bussman commented on the workman's close resemblance to her husband and even suggested that he might be his brother.
+
+name:scorn
+usage:Franz poured scorn on the idea, pointing out that his brother had been killed in action during the war.
+
+name:acquaint
+usage:Though Mrs. Busssman fully acquainted with this story, she thought that there was a chance in a million that she might be right.
+
+from:新概念英语第三册lesson 37 The Westhaven Express
+name:dislocate
+usage:Only an exceptionally heavy snowfall might temporarily dislocate railway services.
+
+name:asterisk
+usage: A tiny asterisk conducted me to a footnote at the bottom of the page.
+
+name:dawdle
+meaning_zh: v. 慢吞吞地动或做
+usage:But when the train dawdled at station after station, I began to wonder, It suddenly dawned on me that this express was not roaring down the line at ninety miles an hour, but barely chugging along at thirty.
+
+name:chug
+meaning_zh: v. 咔嚓咔嚓地响
+usage:But when the train dawdled at station after station, I began to wonder, It suddenly dawned on me that this express was not roaring down the line at ninety miles an hour, but barely chugging along at thirty.
+
+name:lodge
+usage:I determined to lodge a complaint as soon as we arrived.
+
+from:新概念英语第三册lesson 38 The first calender
+name: deduce
+usage: He has to deduce what he can from the few scanty clues available.
+
+name:assumption
+usage:Recent scientific evidence seems to indicate that this assumption is incorrect.
+
+name:engrave
+usage:Historians have long been puzzled by dots, lines and symbols which have been engraved on walls, bones, and the ivory tusks of mammoths
+
+name: nomad
+usage:The nomads who made these markings lived by hunting and fishing during the last Ice Age which began about 35,000 B.C. and ended about 10,000 B.C. 
+
+name:correlate
+usage: By correlating markings made in various parts of the world, historians have been able to read this difficult code.
+
+name:advent
+usage:Up to now, historians have assumed that calendars came into being with the advent of agriculture, for then man was faced with a real need to understand something about the seasons.
+
+name:phase
+usage:They have found that it is connected with the passage of days and the phases of the moon. 
+
+name:shed
+usage:Even seemingly insignificant remains can shed interesting light on the history of early man.
+
+from:新概念英语第三册lesson 35 Justice was done
+name:arduous
+usage:Those who seek it undertake an arduous journey and can never be sure that they will find it. 
+
+name:machinery
+usage:Justice is part of the complex machinery of the law.
+
+name:interference
+usage:Reward or punishment are meted out quite independent of human interference.
+
+name:premises
+meaning_zh: n. 房屋
+usage:When a thief was caught on the premises of large jewellery store on morning, the shop assistants must have found it impossible to resist the temptation to say 'it serves him right.'
+
+name:promptly
+usage:As the cry was repeated several times, she ran to tell the manager who promptly rang up the fire brigade.
+
+name:chimney
+usage:They located the right chimney by tapping at the walls and listening for the man's cries. 
+
+name:chip
+usage:After chipping through a wall which was eighteen inches thick, they found that a man had been trapped in the chimney.
+related:chop
+
+name:muffle
+usage:
+
+from:新概念英语第三册lesson 49:The ideal servant
+name:rambling
+usage:She had a huge, rambling country house called 'The Gables'.
+
+name: sentimentally
+usage: She was sentimentally attached to this house, for even though it was far too big for her needs, she persisted in living there long after her husband's death.
+
+name: lavishly
+usage:Before she grew old, Aunt Harriet used to entertain lavishly.
+
+name:immaculate
+usage: No matter how many guests were present, the great house was always immaculate.
+
+name:parquet
+usage:The parquet floors shone like mirrors; highly polished silver was displayed in gleaming glass cabinets;
+
+name:gleam
+usage:The parquet floors shone like mirrors; highly polished silver was displayed in gleaming glass cabinets;
+
+name:preside
+usage:Aunt Harriet presided over an invisible army of servants that continuously scrubbed, cleaned, and polished.
+
+name:scrub
+usage:Aunt Harriet presided over an invisible army of servants that continuously scrubbed, cleaned, and polished.
+
+name:fickleness
+usage:While she always criticized the fickleness of human nature, she carried on an unrelenting search for the ideal servant to the end of her days, even after she had been sadly disillusioned by Bessie.
+
+name:disillusion
+usage:she carried on an unrelenting search for the ideal servant to the end of her days, even after she had been sadly disillusioned by Bessie.
+
+name:unrelenting
+usage:While she always criticized the fickleness of human nature, she carried on an unrelenting search for the ideal servant to the end of her days, even after she had been sadly disillusioned by Bessie.
+
+name:enlightened
+usage: Though my aunt pursued what was, in those days, an enlightened policy, in that she never allowed her domestic staff to work more than eight hours a day, she was extremely difficult to please. 
+
+name: industriousness
+usage:Aunt Harriet could not find words to praise Bessie's industriousness and efficiency. 
+
+name: mumble
+usage: She bumped into the furniture and kept mumbling about the guests.
+
+name: trip
+usage:When she came in with the last course -- a huge pudding -- she tripped on the carpet and the pudding went flying through the air,
+
+name:mirth
+usage:Though this caused great mirth among the guests, Aunt Harriet was horrified.
+
+name:reluctantly
+usage:She reluctantly came to the conclusion that Bessie was drunk. 
+
+name:departure
+usage:After her departure, Aunt Harriet discovered that there were piles of empty wine bottles of all shapes and sizes neatly stacked in what had once been Bessie's wardrobe.
+
+from: 新概念英语第三册lesson 40: Who's who
+name: indulge
+usage:Inviting the fire brigade to put out a nonexistent fire is a crude form of deception which no self-respecting student would ever indulge in.
+
+name: pneumatic
+usage: he immediately telephoned the police and informed them that two students dressed up as workmen were tearing up the road with a pneumatic drill.
+
+name: archway
+meaning_zh: n. 拱形门楼
+usage:The student did in an archway nearby where he could watch and hear everything that went on.
+
+name: remonstrate
+usage: Shortly afterwards, four more policemen arrived and remonstrated with the workmen.
+
+from: 新概念英语第三册lesson 42 Modern cavemen
+name:solitude
+usage:Perhaps it is the desire for solitude or the chance of making an unexpected discovery that lures people down to the depths of the earth. 
+
+name:arouse
+usage:They arouse instincts which can only be dimly understood.
+
+name:rig
+usage:It can take as long as eight days to rig up rope ladders and to establish supply bases before a descent can be made into a very deep cave.
+phrase:rig up
+
+name:precaution
+usage:Precautions of this sort are necessary, for it is impossible to foretell the exact nature of the difficulties which will confront the pot-holer.
+
+name:confront
+usage:Precautions of this sort are necessary, for it is impossible to foretell the exact nature of the difficulties which will confront the pot-holer.
+
+name:flaw
+usage:This immense chasm has been formed by an underground stream which has tunneled a course through a flaw in the rocks.
+
+name:plateau
+usage:The entrance to the cave is on a plateau in the Dauphine Alps.
+
+name:distinguished
+usage:The cave might never have been discovered has not the entrance been spotted by the distinguished French pot-holer, Berger.
+
+name:corridor
+usage:they climbed down the steep sides of the cave until they came to narrow corridor.
+
+name:shallow
+usage:They had to edge their way along this, sometimes wading across shallow streams, or swimming across deep pools.
+
+name:rubble
+usage:At the far end of the lake, they came to huge piles of rubble which had been washed up by the water. 
+
+name:insistent
+meaning_zh:adj. 坚持的；迫切的；显著的；引人注目的；紧急的
+usage:In this part of the cave, they could hear an insistent booming sound which they found was caused by a small waterspout shooting down into a pool from the roof of the cave.
+
+name:waterspout
+meaning_zh:n. 水柱
+usage:In this part of the cave, they could hear an insistent booming sound which they found was caused by a small waterspout shooting down into a pool from the roof of the cave.
+related:spout
+
+name:cleft
+usage:Squeezing through a cleft in the rocks, the pot-holers arrived at an enormous cavern, the size of a huge concert hall.
+
+name:stalagmite
+meaning_zh:n. 石笋
+usage:they saw great stalagmites -- some of them over forty feet high -- rising up like tree-trunks to meet the stalactites suspended from the roof.
+
+name:stalactite
+meaning_zh:n. 钟乳石
+usage:they saw great stalagmites -- some of them over forty feet high -- rising up like tree-trunks to meet the stalactites suspended from the roof.
+
+name:limestone
+meaning_zh:n. 石灰石
+usage: Round about, piles of limestone glistened in all the colours of the rainbow.
+
+name:dome
+meaning_zh:n. 穹窿，圆顶
+usage:In the eerie silence of the cavern, the only sound that could be heard was made by water which dripped continuously from the high dome above them.
+
+from: 新概念英语第三册lesson 43 Fully insured
+name:enormous
+usage:It had been purchased by a local authority so that an enormous pie could be baked for an annual fair.
+
+name:capsize
+usage:Dancing proved to be more than the dish could bear, for during the party it capsized and sank in seven feet of water.
+
+name:salvage
+usage:The pie committee telephoned a local garage owner who arrived in a recovery truck to salvage the pie dish.
+
+name:haul
+usage:They had little difficulty in finding it, but hauling it out of the water proved to be a serious problem.
+
+name:hawser
+usage:The sides of the dish were so smooth that it was almost impossible to attach hawsers and chains to the rim without damaging it.
+
+name:winch
+usage: Eventually chains were fixed to one end of the dish and a powerful winch was put into operation
+
+name:agonize
+usage: For one agonizing moment, the dish was perched precariously on the bank of the canal, but it suddenly overbalanced and slid back into the water. 
+
+name:precariously
+usage: For one agonizing moment, the dish was perched precariously on the bank of the canal, but it suddenly overbalanced and slid back into the water. 
+
+name:clamp
+usage:This time they fixed heavy metal clamps to both sides of the dish so that they could fasten the chains.
+
+name:torrent
+meaning_zh:n. 激流，洪流
+usage:Water streamed in torrents over its sides with such force that it set up a huge wave in the canal.
+
+from:新概念英语第三册lesson 44 Speed and comfort
+name:cramp
+usage: Train compartments soon get cramped and stuffy.
+
+name:monotonous, lull
+usage:Reading is only a partial solution, for the monotonous rhythm of the wheels clicking on the rails soon lulls you to sleep. 
+
+name:fumble
+usage: If you are lucky enough to get a sleeper, you spend half the night staring at the small blue light in the ceiling, or fumbling to find you ticket for inspection. 
+
+name:inevitably
+usage:Inevitably you arrive at your destination almost exhausted.
+
+name:hardened
+usage:Aeroplanes have the reputation of being dangerous and even hardened travellers are intimidated by them. 
+
+name:exhilarating
+usage:But nothing can match them for speed and comfort. Travelling at a height of 30,000 feet, far above the clouds, and at over 500 miles an hour is an exhilarating experience. 
+
+name:devise
+usage:You do not have to devise ways of taking your mind off the journey, for an aeroplane gets you to your destination rapidly. 
+
+name:sip
+usage:The real escapist can watch a film and sip champagne on some services. 
+
+name:uncrumpled
+usage:you will arrive at your destination fresh and uncrumpled. 
+
+from:新概念英语第三册lesson 45 The power of the press 
+name:condemn
+usage:In democratic countries any efforts to restrict the freedom of the press are rightly condemned.
+
+name:contention
+usage: Acting on the contention that facts are sacred, reporters can cause untold suffering to individuals by publishing details about their private lives. 
+
+name:overthrow
+usage: Newspapers exert such tremendous influence that they can not only bring about major changes to the lives of ordinary people but can even overthrow a government.
+
+name:perpetual
+usage: As the parents had five children, life was a perpetual struggle against poverty.
+
+name:obscurity
+usage:They would have continued to struggle against economic odds and would have lived in obscurity.
+
+name:quintuplet
+meaning_zh: n. 五胞胎之一
+usage:But they suddenly became the parents of quintuplets, an aeroplane arrived in Aberdeen bringing sixty reporters and photographers.
+
+name:nursery
+usage:While the five babies were babies were still quietly sleeping in oxygen tents in hospital nursery, their parents were paying the price for fame.
+
+name:commodity
+usage:Instead of being five new family members, these children had immediately become a commodity.
+
+from:新概念英语第三册Lesson 46:Do it yourself 自己动手
+name:plead
+usage:No one can plead ignorance of a subject any longer, for these are countless do-it-yourself publications. 
+
+name:embark
+usage:Armed with the right tools and materials, newlyweds gaily embark on the task of decorating their own homes.
+
+name:enthusiast
+usage:Some really keen enthusiasts go so far as to build their own computers.
+
+name:cater
+usage:Shops cater for the do-it-yourself craze not only by running special advisory services for novices,
+
+name:assemble
+usage:Shops cater for the do-it-yourself craze not only by running special advisory services for novices, but by offering consumers bits and pieces which they can assemble at home.
+
+name:pent
+usage:Such things provide an excellent outlet for pent up creative energy, but unfortunately not all of us are born handymen.
+phrase:pent up
+
+name:delusion
+usage:The worst thing about the do-it-yourself game is that sometimes even men live under the delusion that they can do anything,
+
+name:screw
+usage:As far as I could see, it needed only a minor adjustment: a turn of a screw here, a little tightening up there, a drop of oil and it would be as good as new
+
+name:dismantle
+usage:The mower firmly refused to mow, so I decided to dismantle it.
+
+name:snap
+usage:One of links in the chain that drives the wheels had snapped.
+
+name:insurmountable
+usage:After buying a new chain I was faced with the insurmountable task of putting the confusing jigsaw puzzle together again. 
+
+name:despair
+usage: I gave up in despair. The weeks passed and the grass grew.
+
+name:clog
+usage:When lights fuse, furniture gets rickety, pipes get clogged, or vacuum cleaners fail to operate, some woman assume that their husbands will somehow put things right.
+
+from:新概念英语第三册Lesson 47 Too high a price
+name:sheer
+usage:We keep trying all four methods, but he sheer volume of rubbish we produce worldwide threatens to overwhelm us.
+
+name:pesticide
+usage:The use of pesticides and fertilizers produces cheap grain and vegetables. The price we pay for cheap food may be already too high:
+
+name:salmonella
+usage:The price we pay for cheap food may be already too high: Mad Cow Disease (BSE) in cattle, salmonella in chicken and eggs, and listeria in dairy products.
+
+from:新概念英语第三册Lesson 48 The silent village
+name:hospitable
+usage:We always assume that villagers in remote places are friendly and hospitable.
+
+name:hostile
+usage:But people who are cut off not only from foreign tourists, but even from their own countrymen can be hostile to travellers.
+
+name:abruptly
+usage:We expected the path to end abruptly, but we found that it traced its way through the trees. 
+
+name:dilapidated
+usage: Sitting down on a dilapidated wooden fence near the field, we opened a couple of tins of sardines and had a picnic lunch
+
+name:frescoe
+usage:These attracted many visitors, for they were not only of great architectural interest, but contained a large number of beautifully preserved frescoes as well.
+
+name:tramp
+usage: We tramped through the wood for over two hours until we arrived at a deep stream. 
+
+name:moor
+usage:Suddenly my wife spotted a boat moored to the bank. In it there was a boatman fast asleep. 
+
+name:peer
+usage: Old women in black shawls peered at us from doorways. 
+
+name:straggle
+usage:The place consisted of a straggling unmade road which was lined on either side by small houses.
+
+
+
+
+
+
+
+

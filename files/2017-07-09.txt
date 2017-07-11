@@ -1,0 +1,133 @@
+from:The Ring (Coiling Dragon), Chapter 1 – Early Morning at a Township
+
+name:veneration
+usage:In their hearts, they were filled with veneration towards Hillman. Hillman, a mighty warrior of the sixth rank, a warrior birthed from life and death struggles!
+
+name:stance
+usage:Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+related:posture
+  
+name:stride into
+usage:Hillman strode into the midst of the children. Staring at them, his face was cold, but in his heart, he was sighing. 
+
+name:ardent
+usage:Seeing the ardent gazes of the children, Hillman couldn’t help but let a slight smile escape. He wanted to stir up a feeling of worshipfulness in the children, a desire to be like him. That way, they would work harder and be more motivated!
+
+name:grin 
+usage:“Let’s add some more fuel to the fire!” Hillman secretly grinned, then walked in front of a giant boulder, which weighed three or four hundred pounds.
+
+name:brandish
+usage:With one hand, Hillman grabbed the boulder. In a very relaxed manner, he began brandishing it about. That three hundred pound boulder, in Hillman’s hands, seemed to be as light as wood.
+
+name:toss
+usage:And that three or four hundred pound boulder was so easily tossed with a flick of the arm. What sort of power was this?
+
+name:smite(smote)
+usage:It smote the ground next to a large tree, and the entire ground trembled. Hillman casually walked in front of some random stones.
+
+name:bluish 
+Hillman breathed deeply. All of the veins on his muscular body popped out prominently, as Hillman directly struck at a nearby bluish boulder. 
+
+name:shatter
+usage:That huge bluestone boulder was shattered by a single blow from his fist. What sort of power was this?
+
+name:wobble
+usage:After a while, the six and seven year olds began to wobble. All of the kids felt that their legs were cramping fiercely, but they gritted their teeth. 
+tip: 过去式 wobbled 过去分词 wobbled 现在分词 wobbling
+
+name:grit
+usage:Linley gritted his teeth. He could clearly feel that the tightness in his waist had already reached the limits of his endurance, to the point where it was almost going numb.
+
+name:callous
+usage:Hillman’s face was cold and callous, but in his heart, he secretly nodded. He was still very satisfied with the performance of these six and seven year olds.
+
+name:clench
+usage: His lips tightened, the boy stared determinedly in front, both fists tightly clenched so hard that his fists were white.
+
+name:canine
+usage:Linley cracked a smile, revealing his small canines. “I’m fine, Uncle Hillman.” As captain of the Baruch clan’s guardsmen, Hillman had watched Linley grow up. Naturally, the two of them were very close.
+
+name:pat
+usage:“Well done. You acted like a man.” Hillman patted Linley on the head. 
+
+name:tousle
+usage: Immediately, the hair on Linley’s head became tousled like windblown grass.
+
+name:thigh
+usage:After practicing the ‘Qi Building Stance’, the waist, back, thighs, shoulders, and other parts of the body would be harmonized. 
+
+name:nucleus
+usage:This area is a person’s nucleus. Speed and power all come from this triangular nucleus, making this region extremely important.
+
+name:devilish
+usage:The Captain is always filled with so many devilish ideas. Those punks are really gonna get it now.
+
+name:punk
+usage:The Captain is always filled with so many devilish ideas. Those punks are really gonna get it now.
+
+name:navel
+usage:Let me tell you all, when a warrior practices his battle qi, the battle qi is stored in a fist-sized location directly beneath the navel. 
+
+name:paramount
+usage:A good instructor is of paramount importance to the children.
+
+name:prop
+usage:Linley could finally hold out no longer, but he still used his arms to prop himself on the ground as he slowly rolled off.
+
+name:crinkle
+usage:“That feels good!” Linley could feel that his waist felt a numbness which pierced through to the bone, so comfortable that his eyes crinkled slightly.
+
+name:impart
+usage:Hillman imparted many important bits of advice to the children.
+
+name:etch
+usage:Hillman continued to impart these experiences, like the spring wind imparting life-giving rain, deeply etching these important experiences in the minds of these children.
+
+name:regulate
+usage:Wushan town’s training regimes were regulated. Every day, it happened twice, once at dawn, and once at dusk.
+
+name:perk
+usage:“The legendary Four Supreme Warriors?” Linley’s ears couldn’t help but perk up as well, as he stared unblinkingly at Hillman.
+
+name:thump
+usage:Linley, sitting on the ground, felt his heart thump furiously.
+
+name:wander
+usage: They could wander amidst an army of millions at leisure, and easily take the head of any general! 
+
+name:surpass
+usage: I believe that Wushan town will become the strongest town in our region, surpassing the other ten or so towns
+
+name:pinnacle
+usage: They have surpassed the ninth rank warriors and can be considered the pinnacle of warriors. 
+
+name:stun
+usage:After a short period of time, the stunned children returned to their homes. 
+
+name:circumference
+usage:They all immediately nodded. Wushan was over a thousand meters high, and thousands of meters in circumference. 
+related:perimeter
+
+name:reminisce
+usage:On the continent, virtually all of the children of commoners had to train hard from an early age. Seeing the kids, Roger and Lorry reminisced back to their own youth.
+
+name:maestro
+usage:“Although I’m not clear about the exact strength of the Four Supreme Warriors, I know this – a Saint-level mage maestro, which is to say a mage which has attained the Saint-level, can execute forbidden magical techniques and eradicate an entire army of tens of thousands, or an entire city.
+
+name:eradicate
+usage:“Although I’m not clear about the exact strength of the Four Supreme Warriors, I know this – a Saint-level mage maestro, which is to say a mage which has attained the Saint-level, can execute forbidden magical techniques and eradicate an entire army of tens of thousands, or an entire city.
+
+name:bidding
+usage:Bidding farewell to his good friend Hadley, Linley went back, alone, to his home. 
+phrase:bidding farewell
+
+name:afloat
+usage:But despite these measures, by this period in time, Linley’s father, Hogg Baruch, still needed to sell off family possessions in order to keep the family afloat.
+
+name:manor
+usage: The rest of the manor would no longer be maintained. That way, a great deal of money could be saved.
+
+name:mimic
+usage:“My lord father always told me, if you want to become a man without peer, then you must work harder than other men.” Linley unconsciously mimicked his father’s manner of speech.
+
+

@@ -1,0 +1,775 @@
+from:新概念英语第三册lesson 50 New Year resolutions 新年的决心
+name:monotonous, recur
+usage:The same old favorites recur year in year out with monotonous regularity
+
+name:resolve
+usage:We resolve to get up earlier each morning, eat less, find more time to play with the children, do a thousand and one jobs about the house, be nice to people we don't' like, drive carefully, and take the dog for a walk every day.
+
+name:inveterate, frustration
+usage:If we remain inveterate smokers, it is only because we have so often experienced the frustration that results from failure.
+
+name:ambitious
+usage:Most of us fail in our efforts at self-improvement because our schemes are too ambitious and we never have time to carry them out.
+
+name:pitfall
+meaning_zh: n. 意外的困难，易犯的错误
+usage: Aware of these pitfalls, this year I attempted to keep my resolutions to myself.
+
+name:assiduously
+meaning_zh: adv. 刻苦地
+usage:An all-night party on New Year's Eve provided me with a good excuse for not carrying out either of these new resolutions on the first day of the year, but on the second, I applied myself assiduously to the task.
+
+name:propose
+usage:The daily exercises lasted only eleven minutes and I proposed to do them early in the morning before anyone had got up.
+related:plan
+
+name:troop
+usage: The next morning the whole family trooped in to watch the performance.
+
+name:unsettling, fend, taunt, jibe
+usage:That was really unsettling, but I fended off the taunts and jibes of the family good-humouredly and soon everybody got used to the idea.
+phrase:fend off
+
+name:enthusiasm, wane, diminish
+usage:However, my enthusiasm waned. The time I spent at exercises gradually diminished. Little by little the eleven minutes fell to zero.
+
+name:hypnotize, glue
+usage:Resisting the hypnotizing effect of television, I sat in my room for a few evenings with my eyes glued to book.
+
+name:entitle
+usage: In fact, I have just bought a book entitled How to Read a Thousand Words a Minute.
+
+from:新概念英语第三册 Lesson 51:Predicting the future
+name:notoriously
+usage:Predicting the future is notoriously difficult.
+
+name:dismiss
+usage:Bagrit dismissed the idea that computers would learn to 'think' for themselves and would 'rule the world', which people liked to believe in those days.
+
+name:diagnose, clerical
+usage:Bagrit foresaw a time when computers would be small enough to hold in the hand, when they would be capable of providing information about traffic jams and suggesting alternative routes, when they would be used in hospitals to help doctors to diagnose illnesses, when they would relieve office workers and accountants of dull, repetitive clerical work.
+
+from:新概念英语第三册 Lesson 52: Mud is mud
+name:permanent
+usage:My cousin, Harry, keeps a large curiously-shaped bottle on permanent display in his study.
+
+name:rub
+usage:If you expressed doubt or surprise, he would immediately invite you to smell it and then to rub some into your skin.
+
+name:dispel
+usage:This brief experiment would dispel any further doubts you might have.
+
+name:outlandish
+usage:The bottle really does contain perfumed mud. How Harry came into the possession of this outlandish stuff makes an interesting story which he is fond of relating.
+
+name:acquisition
+usage:Furthermore, the acquisition of this bottle cured him of a bad habit he had been developing for years.
+
+name:fanciful
+usage:He would invent fanciful names on the spot. On entering a shop, he would ask for a new perfume called 'Scented Shadow' or for 'insoluble bath cubes'.
+
+name:pretend
+usage:If a shop assistant told him she had not heard of it, he would pretend to be considerably put out.
+phrase:put out
+
+name:prompt
+usage:Harry does not need to be prompted to explain how he bought his precious bottle of mud.
+
+name:syllable
+usage:the shop assistant looked puzzled and Harry repeated the word, slowly stressing each syllable. 
+
+name:freckle
+usage:When the woman shook her head in bewilderment, Harry went on to explain that 'myrolite' was a hard, amber-like substance which could be used to remove freckles. 
+
+name:intoxicate
+usage:Intoxicated by his success, Harry then asked for perfumed mud. He expected the assistant to look at him in blank astonishment. However, it was his turn to be surprised,
+
+name:discreetly, hasty, retreat, clutch
+usage:He picked up what seemed to be the smallest bottle and discreetly asked the price. He was glad to get away with a mere twenty pounds and he beat a hasty retreat, clutching the precious bottle under his arm. 
+
+name:adorn, cosmetic
+usage:The curious bottle, which now adorns the bookcase in his study, was his first and last purchase of rare cosmetics.
+
+name:outrageous
+usage:Harry used to consider it a great joke to go into expensive cosmetic shops and make outrageous requests for goods that do not exist. 
+
+name:weird, concoction
+usage:She produced all sorts of weird concoctions, but none of them met with Harry's requirements.
+
+from:新概念英语第三册 Lesson 53:In the public interest
+name:highhanded, incompetent
+usage:Sweden has evolved an excellent system for protecting the individual citizen from highhanded or incompetent public officers.
+
+name:over-zealously
+usage:The Swedes were the first to recognize that public official like civil servants, police officers, health inspectors or tax-collectors can make mistakes or act over-zealously in the belief that they are serving the public. 
+
+name:parliamentary, grievance
+usage:A parliamentary committee representing all political parties appoints a person who is suitably qualified to investigate private grievances against the State.
+
+name:ombudsman
+usage:The Ombudsman is not subject to political pressure. He investigates complaints large and small that come to him from all levels of society.
+
+name:district
+usage:The Ombudsman immediately wrote to the Chief of Police in the district asking him to send a record of the case.
+
+name:accusation
+usage:There was nothing in the record to show that the foreigner's complaint was justified and the Chief of Police strongly denied the accusation.
+
+name:prejudiced, representative
+usage:The fact that the policeman was prejudiced against foreigners could not be recorded in the official files. It was only possible for the Ombudsman to find this out by sending one of his representatives to check the facts.
+
+name:inform, prosecute
+usage:The policeman in question was severely reprimanded and was informed that if any further complaints were lodged against him, he would prosecuted.
+
+from:新概念英语第三册 Lesson 54:Instinct or cleverness? 是本能还是机智
+name:wage, contaminate, devour
+usage:We continually wage war on them, for they contaminate our food, carry diseases, or devour our crops.
+
+name:sting, provocation
+usage:They sting or bite without provocation; they fly uninvited into our rooms on summer nights, or beat against our lighted windows.
+
+name:wasp, moth
+usage:We live in dread not only of unpleasant insects like spiders or wasps, but of quite harmless one like moths.
+
+name:industrious, revulsion, horde
+usage: Knowing that the industrious ant lives in a highly organized society does nothing to prevent us from being filled with revulsion when we find hordes of them crawling over a carefully prepared picnic lunch.
+
+name:uncanny
+usage:No matter how much we like honey, or how much we have read about the uncanny sense of direction which bees possess, we have a horror of being stung.
+
+name:praying mantis
+meaning_zh: n. 螳螂
+usage:We enjoy reading about them, especially when we find that, like the praying mantis, they lead perfectly horrible lives.
+
+name:entranced, presence
+usage:We enjoy staring at them, entranced as they go about their business, unaware (we hope) of our presence.
+
+name:awe, column, beetle
+usage:Who has not stood in awe at the sight of a spider pouncing on a fly, or a column of ants triumphantly bearing home an enormous dead beetle?
+
+name:occasionally, luscious
+usage:I am especially proud of it, not only because it has survived several severe winters, but because it occasionally produces luscious peaches
+
+name:wither
+usage:During the summer, I noticed tat the leaves of the tree were beginning to wither.
+
+name:Cluster, aphid, colony
+usage:Clusters of tiny insects called aphids were to be found on the underside of the leaves. They were visited by a large colony of ants which obtained a sort of honey from them.
+
+name:bind, sticky
+usage:I bound the base of the tree with sticky tape, making it impossible for the ants to reach the aphids.
+tip:过去式 bound 过去分词 bound 现在分词 binding  
+
+name:scurry, bewilderment
+usage:I watched them scurrying around the base of the tree in bewilderment.
+
+name:swarm
+usage: I even went out at midnight with a torch and noted with satisfaction (and surprise) that the ants were still swarming around the sticky tape without being able to do anything about it. 
+
+name:ingenuity
+usage:I realized sadly that I had been completely defeated by their ingenuity. 
+
+from:新概念英语第三册 第55课:From the earth:Greetings
+name:blot
+meaning_zh: v. 遮暗
+usage:Once we detected a planet, we would have to find a way of blotting out the light from its star, so that we would be able to 'see' the planet properly and analyze its atmosphere.
+
+name:bacteria
+usage: If we were able to discover lowly forms of life like bacteria on another planet, it would completely change our view of ourselves
+
+name:endeavor
+usage: Finding life elsewhere would change everything. No human endeavor or thought would be unchanged by it.
+
+from:新概念英语第三册 第56课:Our neighbour,the river 河流，我们的邻居
+name:overtake
+usage: We know instinctively, just as beekeepers with their bees, that misfortune might overtake us if the important events of our lives were not related to it.
+
+name:predecessor, meadow
+usage:sometimes we have our party at the boathouse, which a predecessor of ours at the farm built in the meadow hard by the deepest pool for swimming and diving. 
+phrase:hard by
+
+name:crown, holy, wreath
+usage:We welcome the seasons by the riverside, crowning the youngest girl with flowers in the spring, holding a summer festival on Midsummer Eve, giving thanks for the harvest in the autumn, and throwing a holy wreath into the current in the winter.
+
+name:stall
+usage:All the cattle had been moved into stalls and we stood to lose little.
+
+name:attic, juncture
+usage: From an attic window we could get a sweeping view of the river where their land joined ours, and at the most critical juncture we took turns in watching that point.
+
+name:unduly, sound, stoutly, submerged
+usage:We realized that they must have become unduly frightened by the rising flood, for their house, which had sound foundations, would have stood stoutly even if it had been almost submerged.
+
+name:boathook, grapple
+usage: The men of our family waded down through our flooded meadows with boathooks, in the hope of being able to grapple a corner of the raft and pull it out of the current towards our bank
+
+name:objective, alien
+usage: I had expected to be near my objective by now, but everything still seemed alien to me. 
+
+name:tragic
+usage:When my mother had died after a tragic accident, he did not quickly recover from the shock and loneliness
+
+name:absorb, grieve
+usage:In the new country he became absorbed in making a new life for the two of us, so that he gradually ceased to grieve.
+
+name:comprehensive
+usage:I hired a car the day after landing and bought a comprehensive book of maps, which I found most helpful on the cross-country journey, but which I did not think I should need on the last stage. 
+
+name:stumble
+usage: I left as if I had stumbled into a nightmare country, as you sometimes do in dreams
+
+name:cottage, spire
+usage:I could see no valley, no farms, no cottages and no church spire -- only a lake. I decided that I must have taken a wrong turning somewhere.
+
+name:reservoir
+usage:The lake was not a natural one, but a man-made reservoir.
+
+from:新概念英语第三册 第58课:A spot of bother
+name:monstrous, negligence
+usage:She was thinking that she must reprimand her home help the next morning for such a monstrous piece of negligence, when she remembered that she had gone shopping after the home help had left and she knew that she had turned both keys in their locks,
+
+name:confusion
+usage: Looking into the drawing room, she saw a scene of confusion over by her writing desk.
+
+name:impulse, prudent
+usage: Her first impulse was to go round all the rooms looking for the thieves, but then she decided that at her age it might be more prudent to have someone with her,
+
+name:composure, intruder, lurk
+usage: Then, her composure regained, she was ready to set off with the porter's assistance to search for nay intruders who might still be lurking in her flat.
+
+name:hinder
+usage:They went through the rooms, being careful to touch nothing, as they did not want to hinder the police in their search for fingerprints.
+
+name:inconceivable, veritable, magpie, hoard
+usage:The chaos was inconceivable. She had lived in the flat for thirty years and was a veritable magpie at hoarding; and it seemed as though everything she possessed had been tossed out and turned over and over.
+
+name:constable, ransack
+usage: Then a police inspector arrived with a constable and she told them of her discovery of the ransacked flat. 
+
+name:thereby, burglar, balcony
+usage:The inspector began to look for fingerprints, while the constable checked that the front door locks had not been forced, thereby proving that the burglars had either used skeleton keys or entered over the balcony.
+phrase:skeleton key
+
+name:fussy, bother
+usage:The old lady though the was a fussy creature, but since the porter agreed with him, she rang up her daughter and asked for her help in what she described as a little spot of bother.
+
+from:新概念英语第三册 第21课:Daniel Mendoza
+name:marquis
+usage:The use of gloves was not introduced until 1860, when the Marquis of Queensberry drew up the first set of rules.
+
+name:eminent
+usage:This attracted the attention of Richard Humphries who was then the most eminent boxer in England.
+
+name:quarrel, bitterly
+usage:The two men quarrelled bitterly and it was clear that the argument could only be settled by a fight.
+
+name:extravagant
+usage: Despite this, he was so extravagant that he was always in debt.
+
+from:新概念英语第三册 第22课:By heart 熟记台词
+name:cast, aristocrat
+usage:A famous actor in a highly successful play was once cast in the role of an aristocrat who had been imprisoned in the Bastille for twenty years.
+
+name:dim
+usage:The light is dim. Read the letter to me
+
+name:promptly, gaoler
+usage:And he promptly handed the sheet of paper to the gaoler. 
+
+from:新概念英语第三册 第23课:One man's meat is another man's poison
+name:Mediterranean, octopus, delicacy
+usage:If you lived in the Mediterranean, for instance, you would consider octopus a great delicacy.
+
+name:abuse
+usage:No creature has received more praise and abuse than the common garden snail.
+
+name:stroll
+meaning_zh: n. 溜达，散步
+usage: I happened to be walking in my garden when I noticed a huge number of snails taking a stroll on some of my prize plants.
+
+name:dismay, possession
+usage:To our dismay, we saw that there were snails everywhere: they had escaped from the paper bag and had taken complete possession of the hall!
+
+name:despise
+usage:There are countless people who, ever since their early years, have learned to associate snails with food. My friend, Robert, lives in a country where snails are despised.
+
+from:新概念英语第三册 第24课:A skeleton in the cupboard
+name:vivid
+usage: The English language possesses a vivid saying to describe this sort of situation.
+
+name:heroine
+usage:The reader's hair stands on end when he reads in the final pages of the novel that the heroine a dear old lady who had always been so kind to everybody, had, in her youth, poisoned every one of her five husbands.
+
+name:unsympathetic
+usage:But George was unsympathetic. 'Oh, that,' he said with a smile as if he were talking about an old friend. 'That's Sebastian.
+
+name:petrify
+usage: I opened the cupboard door and then stood in front of it petrified.
+
+name:skeleton, dangle, sway, leap
+usage:A skeleton was dangling before my eyes. The sudden movement of the door made it sway slightly and it gave me the impression that it was about to leap out at me.
+
+from:新概念英语第三册 第25课:The Cutty Sark
+name:rudder
+usage:In August, she was struck by a very heavy storm during which her rudder was torn away. 
+
+name:vessel
+meaning_zh: n. 轮船，大木船
+usage: Before they were replaced by steamships, sailing vessels like the Cutty Sark were used to carry tea from China and wool from Australia.
+
+name:steer
+usage:The Cutty Sark rolled from side to side and it became impossible to steer her.
+
+name:plank
+usage: A temporary rudder was made on board from spare planks and it was fitted with great difficulty.
+
+name:Equator
+meaning_zh: n. 赤道
+usage:After crossing the Equator, the captain called in at a port to have a new rudder fitted, but by now the Thermopylae was over five hundred miles ahead. 
+
+from: 新概念英语第三册 第26课:Wanted:a large biscuit tin 
+name:exert, subtle
+usage:Much as we may pride ourselves on our good taste, we are no longer free to choose the things we want, for advertising exerts a subtle influence on us
+
+name:anticipate
+usage: The manufacturers had to pay more money than they had anticipated, or they bought the biscuit from the student for $24,000.
+
+name:ingredient
+usage:It had been baked by a college student who had used over 1,000 pounds of flour, 800 pounds of sugar, 200 pounds of fat, and 400 pounds of various other ingredients.
+
+name:crane, lorry
+usage:It was so heavy that a crane had to be used to remove it from the lorry.
+
+from:新概念英语第三册 第27课:Nothing to sell and nothing to buy
+name:afflict
+usage:He may never be sure where the next meal is coming from, but his is free from the thousands of anxieties which afflict other people. 
+
+name:tramp, contempt, envious
+usage:We often speak of tramps with contempt and put them in the same class as beggars, but how many of us can honestly say that we have not felt a little envious of their simple way of life and their freedom from care?
+phrase: freedom from care
+
+name:philosopher, priests, spiritual
+usage: In the light of this statement, teachers live by selling knowledge, philosophers by selling wisdom and priests by selling spiritual comfort.
+
+name:grudge
+usage: There are times when we would willingly give everything we possess to save our lives, yet we might grudge paying a surgeon a high fee for offering us precisely this service.
+
+from:新概念英语第三册 第28课:Five pound too dear
+name:wares, liner, harbour
+usage:Small boats loaded with wares sped to the great liner as she was entering the harbour.
+
+name:anchor, rug, copper, silverware
+usage:Before she had anchored, the men from the boats had climbed on board and the decks were son covered with colourful rugs from Persia, silks from India, copper coffee pots, and beautiful handmade silverware. 
+
+name:disembark
+usage:Many of the tourists on board had begun bargaining with the tradesmen, but I decide not to buy anything until I had disembarked.
+
+name:marble
+usage: but I could not conceal the fact that I was impressed by the size of the diamonds. Some of them were as big as marbles.
+
+name:genuine, inscribe
+usage: It certainly looked genuine. At the base of the
+gold cap, the words 'made in the U.S.A.' had been neatly inscribed.
+
+name:gesticulating, outrageous
+usage: Gesticulating wildly, the man acted as if he found my offer outrageous, but he eventually reduced the price to 30 pounds
+
+name:shrug, thrust
+usage: Shrugging my shoulders, I
+began to walk away when, a moment later, he ran after me and thrust the pen
+into my hands. 
+
+from:新概念英语第三册 Lesson 29:Funny or not
+name:plaster
+meaning_zh: n. 熟石膏
+usage:On Christmas Day, the man still had his right leg in plaster. 
+
+name:pester
+meaning_zh: v. 一再要求，纠缠
+usage: From the moment he arrived there, he kept on pestering his doctor to tell him when he would be able to go home.
+
+name:console
+usage:The following day, however, the doctor consoled him by telling him that his chances of being able to leave hospital in time for New Year celebrations were good.
+
+name:compensate
+usage: To compensate for his unpleasant experiences in hospital, the man drank a little more than was good for him. 
+
+from:新概念英语第三册 第30课:The death of a ghost
+name:hay, cowshed, claim
+usage:Hay had been cut and cowsheds had been cleaned. A farm worker, who stayed up all night claimed to have seen a figure cutting corn in the moonlight.
+
+name:conscientious
+usage:In time, it became an accepted fact the Cox brothers employed a conscientious ghost that did most of their work for them.
+
+name:recluse
+usage: All these years, Eric had lived as a recluse. He used to sleep during the day and work at night, quite unaware of the fact that he had become the ghost of Endley.
+
+name:desert, regiment
+usage:As he hated army life, he decided to desert his regiment. When he learnt that he would be sent abroad, he returned to the farm and his father hid him until the end of the war.
+
+from:新概念英语第三册 第31课:A lovable eccentric
+name:eccentric
+usage:True eccentrics never deliberately set out to draw attention to themselves. 
+
+name:invariably, routine
+usage:This invariably wins them the love and respect of others, for they add colour to the dull routine of everyday life.
+
+name:shrewd
+usage:He was a shrewd and wealthy businessman, but most people in the town hardly knew anything about this side of his life.
+
+name:eccentricity
+usage:He was known to us all as Dickie and his eccentricity had become legendary long before he died.
+
+name:bedraggled
+usage: He wanted to buy a $300 watch for his wife, but he was in such a bedraggled condition than an assistant refused to serve him. 
+
+name:elaborate
+usage:It took him four years to stage this elaborate joke simply to prove that critics do not always know what they are talking about.
+
+name:apologetic, reprimand
+usage:Recognizing who the customer was, the manager was most apologetic and reprimanded the assistant severely.
+
+from: 新概念英语第三册 第32课:A lost ship
+name:cargo, bullion
+usage:The captain knew that another attempt would be made later, for the sunken ship he was trying to find had been carrying a precious cargo of gold bullion.
+
+name:scour
+usage:The sea bed was scoured with powerful nets and there was tremendous excitement on board went a chest was raised from the bottom.
+
+name:convoy, torpedo, submarine
+usage:The Karen had been sailing in a convoy to Russia when she was torpedoed by an enemy submarine.
+
+from: 新概念英语第三册 第33课:A day t remember
+name:prelude
+usage:The telephone rings and this marks the prelude to an unforeseen series of catastrophes.
+
+name:crockery
+usage:While you are on the phone, the baby pulls the tablecloth off the table, smashing half your best crockery and cutting himself in the process.
+
+name:collide
+usage:During the rush hour one evening two cars collided and both drivers began to argue.
+
+name:panic, brake
+usage: The woman immediately behind the two cars happened to be a learner. She suddenly got into a panic and stopped her car. This made the driver following her brake hard.
+
+name:stray
+usage: Only two stray dogs benefited from all this confusion, for they greedily devoured what was left of the cake. It was just one of those days!
+
+from:新概念英语第三册 第34课:A happy discovery
+name:antique
+usage:The more expensive kind of antique shop where rare objects are beautifully displayed in glass cases to keep them free from dust is usually a forbidding place.
+
+name:muster, pretentious
+usage:But no one has to muster up courage to enter a less pretentious antique shop.
+phrase: muster up
+
+name:labyrinth, musty, rarity, assorted
+usage:There is always hope that in its labyrinth of musty, dark, disordered rooms a real rarity will be found amongst the piles of assorted junk that little the floors.
+
+name:dedicate
+usage:A truly dedicated bargain hunter must have patience, and above all, the ability to recognize the worth of something when he sees it. 
+
+name:bent, cherish, amply
+usage:Like a scientist bent on making a discovery, he must cherish the hope that one day he will be amply rewarded.
+
+name:masterpiece
+usage:He has often described to me how he picked up a masterpiece for a mere $50. 
+
+name:prise
+usage: Frank begged him to do so and the dealer reluctantly prised it open.
+
+name:carve
+usage:Apart from an interesting-looking carved dagger, the box was full of crockery, much of it broken. 
+
+from:新概念英语第三册 第1课:A Puma at large 逃遁的美洲狮
+name:spot
+usage:When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously.
+
+name:oblige
+usage:However, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
+
+name:trail
+meaning_zh: n. 一串，一系列
+usage: Wherever it went, it left behind it a trail of dead deer and small animals like rabbits.
+
+name:cling
+usage:Paw prints were seen in a number of places and puma fur was found clinging to bushes.
+
+from:新概念英语第三册 Lesson 2:Thirteen equals one
+name:vicar, raise
+usage:Our vicar is always raising money for one cause or another, but he has never managed to get enough money to have the church clock repaired.
+
+name:torchlight, grocer
+usage:In the torchlight, he caught sight of a figure whom he immediately recognized as Bill Wilkins, our local grocer.
+
+from:新概念英语第三册 第3课:An unknown goddess
+name:promontory
+usage: An American team explored a temple which stands in an ancient city on the promontory of Ayia Irini.
+
+name:drainage, clay
+usage: The city was equipped with a drainage system, for a great many clay pipes were found beneath the narrow streets.
+
+name:sacred
+usage:In the most sacred room of temple, clay fragments of fifteen statues were found. Each of these represented a goddess and had, at one time, been painted. 
+
+name:archaeologist
+usage:When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman. 
+
+from:新概念英语第三册 Lesson 4:The double life of Alfred Bloggs
+name:embarrass
+usage:When he got married, Alf was too embarrassed to say anything to his wife about his job.
+
+name:overalls
+meaning_zh:n. 工作服
+usage:He then changed into overalls and spent the next eight hours as a dustman.
+
+from:新概念英语第三册 Lesson 5:The facts
+name:fax
+usage:The editor at once sent the journalist a fax instructing him find out the exact number of steps and the height of the wall.
+
+from:新概念英语第三册 第6课:Smash-and-grab
+name:admire
+meaning_zh: vt. 欣赏
+usage:Mr. Taylor, the owner of a jewellery shop was admiring a new display.
+
+name:velvet
+meaning_zh: n. 天鹅绒，丝绒
+usage:diamond necklaces and rings had been beautifully arranged on a background of black velvet.
+
+name:blare, arcade
+usage:The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade. 
+
+name:raid, scramble, fantastic
+usage:The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed. 
+
+name:ashtray, vase
+usage:Just as it was leaving, Mr. Taylor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves.
+
+from:新概念英语第三册 Lesson 7:Mutilated ladies
+name:mutilate
+usage:Fortunately for them, the Bank of England has a team called Mutilated Ladies which deals with claims from people who fed their money to a machine or to their dog.
+phrase: Mutilated Ladies
+
+name:oven
+usage:John had very good day and put his wallet containing $3,000 into the microwave oven for safekeeping.
+
+from:新概念英语第三册 第8课:A famous monastery
+name:monastery
+usage:The famous monastery of St. Bernard, witch was founded in eleventh century, lies about a mile away.
+
+name:enclosure
+meaning_zh:n. 围场，圈地
+usage:As there are so many people about, the dogs have to be kept in a special enclosure
+
+name:wander
+usage:The dogs have greater freedom, too, for they are allowed to wander outside their enclosure.
+
+name:rashly, pass
+usage:Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot.
+
+name:Easter
+usage:The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter. 
+
+from:新概念英语第三册 Lesson 9:Flying cats
+name:affectionate, submissive
+usage:They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well. They never become submissive like dogs and horses.
+
+name:feline
+usage:As a result, humans have learned to respect feline independence. 
+
+name:suspicious
+usage:Most cats remain suspicious of humans all their lives. 
+
+name:windowsill
+usage: Of course, New York is the ideal place for such an interesting study, because there is no shortage of tall buildings. There are plenty of high-rise windowsills to fall from! 
+
+name:paratrooper
+usage:'Cats behave like well-trained paratroopers.' a doctor said.
+
+name:squirrel
+usage:They stretch out their legs like flying squirrels. This increases their air-resistance and reduces the shock of impact when they hit the ground.
+
+from:新概念英语第三册 第10课:The loss of the Titanic
+name:colossal
+usage: Even by modern standards, the 46,000 ton Titanic was a colossal ship.
+
+name:watertight, compartment
+usage:At the time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen watertight compartments. Even if two of these were flooded, she would still be able to float.
+
+name:faint
+usage:The noise had been so faint that no one thought that the ship had been damaged. 
+
+name:voyage
+usage:The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life.
+
+name:iceberg, lookout
+usage:Four days after setting out, while the Titanic was sailing across the icy water of the North Atlantic, huge iceberg was suddenly spotted by a lookout.
+
+name:abandon, plunge
+usage:The order to abandon ship was given and hundreds of people plunged into the icy water. As there were not enough lifeboats for everybody, 1,500 lives were lost.
+
+from:新概念英语第三册 第11课:Not guilty
+name:hardened, smuggler
+usage:Even really honest people are often made to feel guilty. The hardened professional smuggler, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase. 
+
+name:officious
+usage:When I returned from abroad recently, a particularly officious young Customs Officer clearly regarded me as a smuggler.
+
+name:exempt
+usage:You should have declared that. Perfume is not exempt from import duty.
+
+name:gel
+meaning_zh: n. 凝胶
+usage:'But it isn't perfume,' I said. 'It's hair gel.' Then I added with a smile, 'It's a strange mixture I make myself.'
+
+name:unscrew, nostril
+usage:The officer unscrewed the cap and put the bottle to his nostrils. He was greeted by an unpleasant smell which convinced him that I was telling the truth. 
+
+from:新概念英语第三册 第12课:Life on a desert island
+name:wretched, starve
+meaning_zh: adj. 可怜的，艰苦的
+usage:The other side of the picture is quite the opposite. Life on a desert island is wretched. You either starve to death or live like Robinson Crusoe, Waiting for a boat which never comes. 
+
+name:rubber, dinghy
+usage:They quickly loaded a small rubber dinghy with food, matches, and cans of beer and rowed for a few miles across the Caribbean until they arrived at a tiny coral island.
+
+name:spear
+usage:As they had brought a spear gun with them, they had plenty to eat. 
+
+name:lobster
+usage:They caught lobster and fish every day，and, as one of them put it 'ate like kings'. 
+
+name:tanker, genuinely
+usage:When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave.
+
+from:新概念英语第三册 第13课:It's only me
+name:costume, impatient
+usage:She intended to dress up as a ghost and as she had made her costume the night before, she was impatient to try it on.
+
+name:sheet
+usage: Though the costume consisted only of a sheet, it was very effective.
+
+name:slam
+meaning_zh: v. 砰地关上
+usage:When Mrs. Richards walked towards him, he fled, slamming the door behind him.
+
+from:新概念英语第三册 第14课:A noble gangster 
+name:funeral, valiant
+usage:Florentines gave him a state funeral and had a pictured with as dedicated to the memory of 'the most valiant soldier and most notable leader, Signor Giovanni Haukodue.'
+
+from:新概念英语第三册 第15课:Fifty pence worth of trouble
+name:rattle, thrifty
+usage:If fifty pence pieces are not exchanged for sweets, they rattle for months inside money boxes. Only very thrifty children manage to fill up a money box. 
+
+name:pavement, drain
+usage:On his way to the sweet shop, he dropped his fifty pence and it bounced along the pavement and then disappeared down a drain.
+
+name:grease
+usage:The fire brigade was called and two fire fighter freed George using a special type of grease.
+
+from:新概念英语第三册 第16课:Mary had a little lamb
+name:accuse, lamb
+usage:Dimitri immediately went to Aleko's house and angrily accused him of stealing the lamb.
+
+from:新概念英语第三册 第17课:The longest suspension bridge in the world
+name:agreeable
+usage: He described it as 'a very agreeable situation located within two small hills in the midst of which flowed a great river.' 
+
+name:elegant
+usage:Despite its immensity, it is both simple and elegant, fulfilling its designer's dream to create 'an enormous object drawn as faintly as possible'.
+
+name:cable
+meaning_zh: n. 缆索
+usage:They support the cables from which the bridge has been suspended. Each of the four cables contains 26,108 lengths of wire.
+
+name:estimate
+usage:It has been estimated that if the bridge were packed with cars, it would still only be carrying a third of its total capacity.
+
+from:新概念英语第三册 第18课:Electric currents in modern art
+name:sculpture
+usage:Modern sculpture rarely surprises us any more.
+
+name:gallery, exhibit
+usage: The first thing I saw when I entered the art gallery was a notice which said: 'Do not touch the exhibits. Some of them are dangerous!'
+
+name:oddly, gust
+usage:Oddly shaped forms that are suspended form the ceiling and move in response to a gust of wind are quite familiar to everybody.
+
+name:magnetize, repel
+usage:The spheres had been magnetized and attracted or repelled each other all the time. 
+
+name:flicker
+usage:These lights flickered continuously like traffic lights which have gone mad. 
+
+name:spark
+usage:Sparks were emitted from small black boxes and red lamps flashed on and off angrily.
+
+from:新概念英语第三册 第19课:A very dear cat
+name:Kidnapper
+usage:Kidnappers are rarely interested in animals, but they recently took considerable interest in Mrs. Eleanor Ramsay's cat.
+
+name:anonymous
+usage:There days after Rastus' disappearance, Mrs. Ramsay received an anonymous letter.
+related:incognito
+
+name:ransom
+usage:The writer stated that Rastus was in safe hands and would be returned immediately if Mrs. Ramsay paid a ransom of $1,000. Mrs
+
+name:astound
+usage:The police were astounded when Mrs. Ramsay told them what she had done. 
+
+from:新概念英语第三册 第20课:Pioneer pilots
+name:overland
+usage:A week before, he had completed a successful overland flight during which he covered twenty-six miles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

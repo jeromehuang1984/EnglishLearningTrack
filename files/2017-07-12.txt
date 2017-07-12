@@ -1,0 +1,255 @@
+from: BBC英语六分钟 第231期:食物和心情 http://www.kekenet.com/Article/201705/508081.shtml
+name: kimchi, fermentation
+usage:I love miso soup and kimchi. And fermentation is the process where sugars in food are turned into acids and alcohol.
+trans:我喜欢味噌汤和朝鲜泡菜。发酵是指食物中的糖转变为酸和酒精的过程。
+
+name: bravery, plural
+usage:Gut was first. It means the stomach and other organs which digest our food. But here’s an extra tip - the word can also mean bravery when used in the plural. You’ve got guts, Neil, wearing that crazy shirt in this office!
+trans:首先是内脏，指胃，以及消化食物的其他器官。另外，提示一下，这个单词的复数形式是指勇气。尼尔，在办公室里穿这种疯狂的衬衫，你很有勇气。
+
+name:hops, yeast
+usage:Brewing beer isn’t rocket science – you just need hops, yeast and patience.
+trans:酿酒并不难，你只需要啤酒花、酵母和耐心
+
+from:BBC英语六分钟 第230期:耳蠕虫
+name:nasty, burrow
+usage:Eugh – an ear worm. It sounds like a nasty bug that burrows into your ear.
+trans:额，耳蠕虫。听起来像是令人讨厌的虫子，能钻入你的耳朵。
+
+name:earwig
+usage:I think you’re thinking of an earwig. That’s a little black insect. I don’t think it necessarily burrows into people’s ears though thank goodness!
+trans:你是不是在想地蜈蚣——小小的黑色昆虫。谢天谢地它不一定会要钻入人的耳朵！
+
+name:catchy
+usage: Psychologists have been doing some research into what makes a particular bit of music so catchy.
+trans:心理学家曾做过一些研究，目的是找出某段特定的音乐如此朗朗上口的原因。
+
+name:unbidden
+usage:A tune or a part of the tune that comes unbidden into the mind, and then goes on to repeat and it’s outside of your conscious control of it. 
+trans:一首曲子或者一部分曲调直接进入到人脑，持续重复，不受你的意识控制。
+
+from:BBC英语六分钟 第229期:狗狗探测家
+name:dog
+phrase:as sick as a dog
+usage:I am so tired. One of my children is as sick as a dog. I didn't sleep all night long looking after them.
+trans:我太累了。我的一个孩子病得很重。我整晚都没睡一直在照顾他们。
+
+name:paw, fluffy, waggy
+usage:A wet nose, four paws, which is what we call the feet of certain animals, a fluffy coat and a waggy tail? Man's best friend? But I've never heard of cancer dogs. I wonder what makes them suitable?
+trans:湿湿的鼻子，四只爪子，爪子是指某些动物的脚，蓬松的毛，还有一条摇晃的尾巴？它还是人类最好的朋友？但我从来没听说过癌症狗。我在想它们为什么适合做这项工作呢？
+
+name:sophisticated
+usage:Although the dog has a fluffy coat and a waggy tail, he is in fact a highly sophisticated bio-sensor.
+trans:尽管狗狗有蓬松的毛，摆动的尾巴，事实上它是一个高度复杂的生物传感器
+
+name:burglary, trespass
+usage:Are you referring to guard dogs, meaning a dog which keeps a house or place safe from burglary, theft or trespassing.
+trans:你是说看门狗吗，帮人们看家护院以防入室盗窃、偷盗和非法侵入。
+
+name:deterrent
+usage:Yep. Ex-burglars have often said that they're a much bigger deterrent, or reason not to do something, than an alarm system.
+trans:没错。有入室盗窃前科的人说，狗狗比警报系统更具威慑力，威慑力是不做某事的原因。
+
+name:avalanch
+usage:Oh and there's rescue dogs. They are trained to search and find victims of natural disasters such as avalanches or earthquakes.
+trans:还有救援狗。受过训练的狗狗被用于搜寻自然灾害中的遇难者，例如雪崩或地震。
+
+name:orthodoxy
+usage:One of our jobs as MPs is sometimes to question orthodoxies, so if this research is good then I want to know about it, and I will certainly look at it carefully.
+trans:我们的工作有时是质疑正统观念，所以如果研究结果不错的话，我就会去了解，然后认真考虑这件事。
+
+name:methane, canary
+usage:Well, Miners in danger of a highly toxic but invisible gas called methane used to carry a canary in a cage down the mine with them. If the canary became ill or died, they knew that the air was toxic.
+trans:甲烷是一种看不见的气体，带有剧毒，矿工们通常会处于这种危险之中，所以他们会带着一只放在笼子里的金丝雀下矿。如果金丝雀生病或死亡，他们就知道空气中有毒。
+
+name:screen, luggage
+usage:If you screen something, it means you examine it for its suitability, such as luggage going through an airport – where they would screen for explosives. How else can it be used, Dan?
+trans:检查某物是说检测它的适用性。例如行李经过机场时，要进行审查筛选，看其中是否有爆炸物。这个词还能用于什么地方呢？
+
+name:deter, naughty
+usage:How do you deter your children from being naughty, Neil?
+trans:孩子们淘气时，你是怎样震慑住他们的？
+
+name:sausage, vanilla
+usage:Well I love to combine hot sausages and cold vanilla ice-cream. It's delicious! But no one will trust me enough to try!
+trans:我喜欢将热香肠和香草冰淇淋一起吃。非常美味。但没有人相信我！
+
+from:BBC英语六分钟 第228期:血液
+name:squeamish
+usage:Now Jennifer, how squeamish are you?
+trans:对了詹妮佛，你平常会感到恶心吗？
+
+name:temperament, pessimistic, reserved, outgoing
+usage:Your temperament describes your natural character – whether you are usually cheerful, pessimistic, friendly, reserved, outgoing and so on
+trans:性格是指一个人的本性，比如开朗、悲观、友好、保守、外向等等，这些都是一个人的性格。
+
+name:diplomatic
+usage:Do you want a diplomatic answer?
+trans:你想听“官方”回答吗？
+
+name:sceptic
+usage:Personally I'm a sceptic. I find it hard to believe that my character could be determined by the blood that flows around my body. But then I don't believe in astrology either – that the position of the stars and planets in the sky when you are born can determine your temperament or personality.
+trans:恩，我个人是个怀疑论者。我很难相信我的性格是由我身体里流动着的血液所决定的。而且我也不相信星座，我不认为你出生时恒星和行星在天空中的位置可以决定你的性格
+
+from:BBC英语六分钟 第227期:疼痛
+name:anaesthetic
+usage:An anaesthetic is a drug or gas used to stop pain, particularly during medical procedures, but which language does the word come from?
+trans:麻醉剂是一种用于止痛的药物或气体，经常用于医疗过程中。那么你知道这个单词来自哪种语言吗？
+
+name:toddler, tongue
+usage:Well I was diagnosed with it at a young age. I was a toddler when I began chewing pretty much the whole front portion of my tongue off.
+trans:我很小的时候就被诊断出患有这种疾病。那时我还是个蹒跚学步的小孩，我把自己舌头的前半部分全咬掉了
+
+name:paediatrician, blister
+usage:My parents took me to my paediatrician where he took a lighter, placed it underneath my foot, held it there for a moment until my skin began to blister and then he had a pretty good idea of what it was that my condition was.
+trans:我的父母带我去看了儿科医生。他拿着一个打火机，把它放在我的脚下，让火在我脚下烧了一会。直到我的皮肤开始起泡，医生才明白了我的病情。
+
+name:cast
+usage: We'd always end up with broken bones, we'd be visiting the hospitals frequently, wearing casts throughout most of our childhood. So it was quite difficult.
+trans:我们总是骨折，经常去看医生，所以在童年的大部分时间里，我们身上都绑着石膏。真的很不方便，很痛苦
+
+name:empathy
+usage: Empathy is the ability to understand someone else's feelings and appreciate what that they are experiencing. Because he can't feel physical pain, he doesn't really feel sorry for people in painful situations.
+trans: 同情心就是能理解他人的情感并对他们的遭遇感同身受。因为他不能感觉到身体上的痛苦，所以他才不会真正对那些遭受身体之痛的人感到同情。
+
+from:BBC英语六分钟 第226期:表情符号的兴起
+name:emojis
+usage:I think emojis are a vital tool for communication. And actually, they're not that new, either.
+trans:我觉得表情符号是非常重要的交流工具。事实上，它们并不是最近才出现的。
+
+name:emoticon, emoji
+usage:I think we should clear one thing up before we go any further: what's the difference between an emoticon and an emoji?
+trans:在我们继续讨论之前，我们要弄清一件事。字符表情和表情符号的区别是什么？
+
+name:colon, brackets
+usage: For example a colon – two dots - followed by the curved line of a close brackets is a…
+trans:例如，一个冒号，也就是两个点，加上右括号，就组成了…
+
+from:BBC英语六分钟 第225期:Omnishambles 
+name:longevity
+phrase:projected longevity
+usage:But it's also the projected longevity, really. Some words are flash in the pan, but you can normally gauge by using your own judgement whether or not something is going to have a life.
+trans:但最重要的还是它的预期寿命。有些单词仅仅是昙花一现，但你通常可以通过自己的评判标准来衡量某个事物是否具有生命力。
+
+name:shamble
+usage:The prefix 'omni', which means everywhere or everything, has been added to the noun 'shambles'. Shambles is a noun for something that is very poorly organised and planned. A complete mess!
+trans:"omni"这个前缀表示“每个地方”或者“每件事物”，它后面是名词"shambles"之前。"Shambles"是一个名词，用来表示某件事缺乏组织和计划。简直是一塌糊涂！
+
+from:6 Minute English: Water Burial
+name:bleak
+usage:Something which is bleak is unpleasant or without hope.
+
+name:burial, cremation
+usage:Burial is when a body is put into the earth and cremation is when a body is burnt. But there are big problems with both. 
+
+name:cemetery
+usage:cemeteries are beginning to get overcrowded – there’s no space left! After all, dying is not exactly a new thing! 
+
+name:toxin, mercury
+usage:During the process, a number of toxins can be emitted into our environment, including mercury from dental fillings. Cremation also has a carbon cost.
+
+name:alkali
+usage:This is where the body is put into an alkali solution and heated to 150 degrees centigrade. This breaks down the tissue and leaves only the skeleton.
+
+name:brittle, implant
+usage:So after the process you have a brittle, or easy to break, skeleton and any implants that they had inside them.
+
+name:grave
+usage:The outbreak of war is a very grave situation for many people.
+
+from:6 Minute English, Can you trust your own eyes?
+name:distort
+usage: We reconstruct - or rebuild - memories, and during this process, they may be distorted – or changed – for different reasons.
+
+name:forensic
+usage:From all those TV dramas you've watched you'll be familiar with the forensic scenes of crimes officers wearing their paper suits and covering their shoes and their hair to make sure they don't introduce their DNA or physical traces onto the crime scene.
+
+name:knifepoint, stab
+phrase: at knifepoint
+usage: For example, if you're being held at knifepoint you are likely to be concentrating on the weapon rather than on your attacker's face. And at knifepoint means 'under threat of being stabbed'.
+
+name:attorney
+usage:Karen Newirth, senior attorney at the Innocence Project in New York, explains this further.
+
+name:disconcert
+usage: It's very disconcerting to think that we're going through life relying on our memories and then to learn how mistaken they can be - and how frequently.
+
+from:6 Minute English, Why do cities make us rude?
+name:vigilant, perception
+usage:When we step off the metro or onto a crowded city street our brain becomes hyper vigilant to the perception of threats around us – we're just one small person in a very large set of other people, in a large body of people. 
+
+name:vigilance
+usage:And hyper vigilance means being extremely watchful of what's going on around you. People can behave unpredictably, and like Dr Boag says, you're just one person in a crowd of others and you just don't know who might be dangerous.
+
+name:insular
+usage:And as a protective mechanism we avoid speaking to or making eye contact with other people. So we become insular – which means inward looking. 
+
+name:claustrophobic
+usage:Well, if you grow up in a small town, it can feel claustrophobic – which means not having enough space to feel comfortable. 
+
+name:nosey
+usage:And a nosey person shows too much interest in other people's business. 
+
+name:hustle, figuratively, quotient
+usage:The cost of living in cities is higher, the success quotient is higher, it's a place where you hustle to survive, and if you are not hustling, and I mean that literally and figuratively, you are not able to survive and thrive. 
+
+name:chitchat
+usage:So we often don't have much time for chitchat. 
+
+from: BBC英语六分钟 第221期:公路之战
+name:gladiator, comedy
+usage:Well some people think so. Here's Jan Etherington a journalist and comedy writer who thinks cyclists in London behave like gladiators in lycra – that's the stretchy material a lot of cyclists wear.
+trans:但有些人确实是这么想的。记者兼喜剧作家简·埃瑟林顿认为，在伦敦骑自行车的人就像穿着莱卡的决斗士，莱卡是指很多骑自行车的人所穿的一种有弹性的布料。一起来听听她的解释。
+
+name:aggressive
+usage:They immediately, in the cyclists case, put on the helmet and lycra and go out to war. And it's a minority, but it's the noticeable aggressive minority that I think the cycling community should recognise and address.
+trans:于是那些骑单车的人就马上带上头盔，穿上莱卡衣服，然后去外面准备决斗。当然只有少数人会这样，但正是这些好斗的少数群体应该唤起自行车协会的广泛关注。
+
+name:batallion, abreast
+phrase:in droves
+usage:I live in the middle of the Olympic cycling route, now from dawn to dusk at the weekend the cyclists come not as single spokes but in batallions. There are two or three abreast of them, and they come in droves.
+trans:我住在奥林匹克自行车赛道的旁边，每周末从早到晚，骑单车的人都是成群结队地并排着骑行。他们三两成群地并排骑行。
+
+name:pedestrian
+usage: Well I'm a cyclist and a motorist – and a pedestrian – so I can see the problem from all sides.
+trans:我既是一个骑单车的人，也是一个机动车驾驶者，同时还是一名行人，所以我会全面地看待这个问题。
+
+from:BBC英语六分钟 第220期:美人鱼是真实还是虚构的
+name:allege
+usage:US President Donald Trump has alleged that newspapers have been printing fake news, but apparently there's no proof
+trans:美国总统特朗普声称报纸上的新闻都是假的，但显然这是没有证据的。
+
+name: aquatic, mythology
+usage: They meet to share an interest in aquatic mythology, take underwater photos, and swim. For many of them, it's a source of income too!
+trans:他们都对水生神话感兴趣，他们一起在水下拍照、游泳。对于很多人来说，这也是他们收入的来源。
+
+name:stumble
+usage:A lot of the mermaids we have attending here are professional mermaids. They will entertain at birthday parties, social events, company events. I stumbled across the mermaiding community merely by accident.
+trans:很多参加该活动的美人鱼都很专业。他们会在生日派对、社会活动或公司活动中助兴。我也是偶然间加入到人鱼社团的。
+
+name:shatter, serene, serenity
+usage:  One Christmas I wrapped a broken lightbulb in a box and gave it to mother as a present. I pretended to drop it and the broken lightbulb made a glass shattering noise and she thought that I had broken her present. After that we heard serene. Serene means calm and peaceful. The noun is serenity. What's your idea of serene, Catherine?
+trans:一个圣诞节，我把一个破碎的电灯泡装进盒子里，作为礼物送给了我的母亲。我假装把它掉到了地上，破碎的灯泡发出玻璃破碎的声音，我母亲以为我摔碎了她的礼物。之后我们还有serene这个单词。这个单词的意思是平静的、安宁的。名词形式是serenity。你理想中的平静安宁的生活是什么样子的？
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

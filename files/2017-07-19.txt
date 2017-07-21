@@ -1,0 +1,289 @@
+from:The wonderful wizard of oz by Frank Baum, 13 The Rescue
+addr:http://www.24en.com/novel/children/the-wonderful-wizard-of-oz/3232.html
+
+name:battered, bent
+usage:They traveled that day and part of the next until they came to the rocky plain where the Tin Woodman lay, all battered and bent. His axe was near him, but the blade was rusted and the handle broken off short.
+
+name:plight, sober
+usage:The Winkies lifted him tenderly in their arms, and carried him back to the Yellow Castle again, Dorothy shedding a few tears by the way at the sad plight of her old friend, and the Lion looking sober and sorry. 
+
+name:dent, solder
+usage:Can you straighten out those dents in the Tin Woodman, and bend him back into shape again, and solder him together where he is broken?
+
+name:burnished
+usage:Others polished the blade until all the rust was removed and it glistened like burnished silver.
+
+name:stud, inlaid
+usage:Finding they were determined to go, the Winkies gave Toto and the Lion each a golden collar; and to Dorothy they presented a beautiful bracelet studded with diamonds; and to the Scarecrow they gave a gold-headed walking stick, to keep him from stumbling; and to the Tin Woodman they offered a silver oil-can, inlaid with gold and set with precious jewels.
+
+name:sunbonnet
+usage:She did not know anything about the charm of the Golden Cap, but she saw that it was pretty, so she made up her mind to wear it and carry her sunbonnet in the basket.
+
+from:The wonderful wizard of oz by Frank Baum, 13 The winged Monkeys
+name:mischief, plague
+usage:"It is written inside the Golden Cap," replied the Queen of the Mice. "But if you are going to call the Winged Monkeys we must run away, for they are full of mischief and think it great fun to plague us."
+
+from:The wonderful wizard of oz by Frank Baum, 14 The Discovery of Oz, the Terrible
+name:wearing, vex
+usage:The waiting was tiresome and wearing, and at last they grew vexed that Oz should treat them in so poor a fashion, after sending them to undergo hardships and slavery. 
+
+name:rear
+usage:He led the way to a small chamber in the rear of the Throne Room, and they all followed him. He pointed to one corner, in which lay the great Head, made out of many thicknesses of paper, and with a carefully painted face.
+
+name:slat
+usage: He showed the Scarecrow the dress and the mask he had worn when he seemed to be the lovely Lady. And the Tin Woodman saw that his terrible Beast was nothing but a lot of skins, sewn together, with slats to keep their sides out.
+
+name:ventriloquist, imitate, prick, balloonist
+usage:"When I grew up I became a ventriloquist, and at that I was very well trained by a great master. I can imitate any kind of a bird or beast." Here he mewed so like a kitten that Toto pricked up his ears and looked everywhere to see where she was. "After a time," continued Oz, "I tired of that, and became a balloonist."
+
+name:abound
+usage:. But my people have worn green glasses on their eyes so long that most of them think it really is an Emerald City, and it certainly is a beautiful place, abounding in jewels and precious metals, and every good thing that is needed to make one happy. 
+
+from:The wonderful wizard of oz by Frank Baum, 16 The Magic Art of the Great Humbug
+name:rap
+usage:Then he said good-bye to them all in a cheerful voice and went to the Throne Room, where he rapped upon the door.
+
+name:bran
+usage:So the Wizard unfastened his head and emptied out the straw. Then he entered the back room and took up a measure of bran, which he mixed with a great many pins and needles.
+
+name:bulge
+usage:Dorothy looked at him curiously. His head was quite bulged out at the top with brains.
+
+name:shear, sawdust
+usage:So Oz brought a pair of tinsmith's shears and cut a small, square hole in the left side of the Tin Woodman's breast. Then, going to a chest of drawers, he took out a pretty heart, made entirely of silk and stuffed with sawdust.
+
+from:The wonderful wizard of oz by Frank Baum, 17 
+name:rattle
+usage:When the Tin Woodman walked about he felt his heart rattling around in his breast; and he told Dorothy he had discovered it to be a kinder and more tender heart than the one he had owned when he was made of flesh.
+
+name:faintest, notion
+usage:"Well, I'm not sure about Kansas," said Oz, "for I haven't the faintest notion which way it lies. But the first thing to do is to cross the desert, and then it should be easy to find your way home."
+
+name:vex
+usage: If I should go out of this Palace my people would soon discover I am not a Wizard, and then they would be vexed with me for having deceived them.
+
+name:greet
+usage:On the fourth day, to her great joy, Oz sent for her, and when she entered the Throne Room he greeted her pleasantly
+
+name:tug
+usage:The balloon was by this time tugging hard at the rope that held it to the ground, for the air within it was hot, and this made it so much lighter in weight than the air without that it pulled hard to rise into the sky.
+
+from:The wonderful wizard of oz by Frank Baum, 18 Away to the south
+name:mourn
+usage:"Truly I should be ungrateful if I failed to mourn for the man who gave me my lovely heart. I should like to cry a little because Oz is gone, if you will kindly wipe away my tears, so that I shall not rust."
+
+from:The wonderful wizard of oz by Frank Baum, 19 Attacked by the fighting tree
+name:brisk
+usage:"City life does not agree with me at all," remarked the Lion, as they walked along at a brisk pace. "I have lost much flesh since I lived there, and now I am anxious for a chance to show the other beasts how courageous I have grown."
+
+name:steeple, spire
+usage:They now turned and took a last look at the Emerald City. All they could see was a mass of towers and steeples behind the green walls, and high up above everything the spires and dome of the Palace of Oz.
+
+name:twine, fling, headlong
+usage:So he walked forward to the tree, but just as he came under the first branches they bent down and twined around him, and the next minute he was raised from the ground and flung headlong among his fellow travelers.
+
+name:dizzy
+usage:This did not hurt the Scarecrow, but it surprised him, and he looked rather dizzy when Dorothy picked him up.
+
+name:march
+usage:"I believe I will try it myself," said the Woodman, and shouldering his axe, he marched up to the first tree that had handled the Scarecrow so roughly.
+
+name:howle
+usage:They all ran forward and passed under the tree without injury, except Toto, who was caught by a small branch and shaken until he howled. But the Woodman promptly chopped off the branch and set the little dog free.
+
+
+from:The wonderful wizard of oz by Frank Baum, 20 The Dainty China Country
+
+name:platter
+usage:Before them was a great stretch of country having a floor as smooth and shining and white as the bottom of a big platter. Scattered around were many houses made entirely of china and painted in the brightest colors.
+
+name:milkmaid, shepherdess, gown, frock, breech, buckle
+usage:But the strangest of all were the people who lived in this queer country. There were milkmaids and shepherdesses, with brightly colored bodices and golden spots all over their gowns; and princesses with most gorgeous frocks of silver and gold and purple; and shepherds dressed in knee breeches with pink and yellow and blue stripes down them, and golden buckles on their shoes;
+
+name:ermine, robe, doublet, ruffle
+usage:and princes with jeweled crowns upon their heads, wearing ermine robes and satin doublets; and funny clowns in ruffled gowns, with round red spots upon their cheeks and tall, pointed caps. 
+
+name:pat
+usage:When all were safely down they picked up the Scarecrow, whose body was quite flattened out, and patted his straw into shape again.
+
+name:stool, pail, clatter
+usage:They began walking through the country of the china people, and the first thing they came to was a china milkmaid milking a china cow. As they drew near, the cow suddenly gave a kick and kicked over the stool, the pail, and even the milkmaid herself, and all fell on the china ground with a great clatter.
+
+name:nick, elbow
+usage:Dorothy was shocked to see that the cow had broken her leg off, and that the pail was lying in several small pieces, while the poor milkmaid had a nick in her left elbow.
+
+name:sulkily, limp
+usage: She picked up the leg sulkily and led her cow away, the poor animal limping on three legs. As she left them the milkmaid cast many reproachful glances over her shoulder at the clumsy strangers, holding her nicked elbow close to her side.
+
+name:jolly, crack
+usage:Indeed, a jolly little clown came walking toward them, and Dorothy could see that in spite of his pretty clothes of red and yellow and green he was completely covered with cracks, running every which way and showing plainly that he had been mended in many places.
+
+name:puff, saucily
+usage:The Clown put his hands in his pockets, and after puffing out his cheeks and nodding his head at them saucily,
+
+name:stiff, prim, poker
+usage:"My lady fair, Why do you stare At poor old Mr. Joker? You're quite as stiff And prim. as if You'd eaten up a poker!"
+
+name: mantel
+usage: Of course that is all that is expected of us when we are on mantels and cabinets and drawing-room tables, but our lives are much pleasanter here in our own country.
+
+name:scamper
+usage:The little animals and all the people scampered out of their way, fearing the strangers would break them, and after an hour or so the travelers reached the other side of the country and came to another china wall.
+
+name:scramble, upset
+usage:It was not so high as the first, however, and by standing upon the Lion's back they all managed to scramble to the top. Then the Lion gathered his legs under him and jumped on the wall; but just as he jumped, he upset a china church with his tail and smashed it all to pieces.
+
+
+from:The wonderful wizard of oz by Frank Baum, 21 The lion becames the king of beasts
+name:bog, marsh
+usage:After climbing down from the china wall the travelers found themselves in a disagreeable country, full of bogs and marshes and covered with tall, rank grass. 
+
+name:moss, cling
+usage:See how soft the dried leaves are under your feet and how rich and green the moss is that clings to these old trees. Surely no wild beast could wish a pleasanter home.
+
+name:rumble, growle
+usage:When morning came, they started again. Before they had gone far they heard a low rumble, as of the growling of many wild animals.
+
+name:whimper, tread
+usage:Toto whimpered a little, but none of the others was frightened, and they kept along the well-trodden path until they came to an opening in the wood, in which were gathered hundreds of beasts of every variety. 
+
+name:snarl
+usage:But the Lion explained that the animals were holding a meeting, and he judged by their snarling and growling that they were in great trouble.
+
+name:assemblage, hush
+usage:As he spoke several of the beasts caught sight of him, and at once the great assemblage hushed as if by magic.
+
+name:foe
+usage:The great spider was lying asleep when the Lion found him, and it looked so ugly that its foe turned up his nose in disgust. 
+
+name:coarse
+usage:Its legs were quite as long as the tiger had said, and its body covered with coarse black hair.
+
+name:pudgy
+usage: but its head was joined to the pudgy body by a neck as slender as a wasp's waist. 
+
+name:wiggle
+usage:Jumping down, he watched it until the long legs stopped wiggling, when he knew it was quite dead.
+
+
+from:The wonderful wizard of oz by Frank Baum, 22 The country of the quadlings
+tumbling,chorus,boisterous,bruised,sore,chubby
+
+name:tumble
+usage:As quick as lightning the man's head shot forward and his neck stretched out until the top of the head, where it was flat, struck the Scarecrow in the middle and sent him tumbling, over and over, down the hill.
+
+name:chorus, boisterous
+usage:A chorus of boisterous laughter came from the other rocks, and Dorothy saw hundreds of the armless Hammer-Heads upon the hillside, one behind every rock.
+
+name:bruise, sore
+usage:Dorothy ran down and helped the Scarecrow to his feet, and the Lion came up to her, feeling rather bruised and sore, and said, "It is useless to fight people with shooting heads; no one can withstand them."
+
+name:chubby
+usage:The Quadlings themselves, who were short and fat and looked chubby and good-natured, were dressed all in red, which showed bright against the green grass and the yellowing grain.
+
+from:The wonderful wizard of oz by Frank Baum, 23 Glinda the good witch grants Dorothy
+name:presentable
+usage:When they were all quite presentable they followed the soldier girl into a big room where the Witch Glinda sat upon a throne of rubies.
+
+name:ringlet
+usage:Her hair was a rich red in color and fell in flowing ringlets over her shoulders. Her dress was pure white but her eyes were blue, and they looked kindly upon the little girl.
+
+name:shaggy
+usage:Then the Witch looked at the big, shaggy Lion and asked, "When Dorothy has returned to her own home, what will become of you?"
+
+name:prairie, cyclone
+usage:For she was sitting on the broad Kansas prairie, and just before her was the new farmhouse Uncle Henry built after the cyclone had carried away the old one. 
+
+from:The wonderful wizard of oz by Frank Baum, 1 The Cyclone
+name:garret
+usage:There was no garret at all, and no cellar--except a small hole dug in the ground, called a cyclone cellar, where the family could go in case one of those great whirlwinds arose, mighty enough to crush any building in its path.
+
+name:blister
+usage:Once the house had been painted, but the sun blistered the paint and the rains washed it away, and now the house was as dull and gray as everything else.
+
+name:sparkle, gaunt
+usage:They had taken the sparkle from her eyes and left them a sober gray; they had taken the red from her cheeks and lips, and they were gray also. She was thin and gaunt, and never smiled now.
+
+name:stern, solemn
+usage:Uncle Henry never laughed. He worked hard from morning till night and did not know what joy was. He was gray also, from his long beard to his rough boots, and he looked stern and solemn, and rarely spoke.
+
+name:ripple
+usage:There now came a sharp whistling in the air from the south, and as they turned their eyes that way they saw ripples in the grass coming from that direction also.
+
+name:shriek
+usage:When she was halfway across the room there came a great shriek from the wind, and the house shook so hard that she lost her footing and sat down suddenly upon the floor.
+
+name:whirl, tip, cradle
+usage: After the first few whirls around, and one other time when the house tipped badly, she felt as if she were being rocked gently, like a baby in a cradle.
+
+from:The wonderful wizard of oz by Frank Baum, 2 The council with the Munchins
+name:jar, whine, dismally
+usage:As it was, the jar made her catch her breath and wonder what had happened; and Toto put his cold little nose into her face and whined dismally. 
+
+name:greensward, stately, luscious, plumage, flutter
+usage: There were lovely patches of greensward all about, with stately trees bearing rich and luscious fruits. Banks of gorgeous flowers were on every hand, and birds with rare and brilliant plumage sang and fluttered in the trees and bushes.
+
+name:pleat, sprinkle, glisten
+usage:The hats of the men were blue; the little woman's hat was white, and she wore a white gown that hung in pleats from her shoulders. Over it were sprinkled little stars that glistened in the sun like diamonds.
+
+name:bondage
+usage:We are so grateful to you for having killed the Wicked Witch of the East, and for setting our people free from bondage.
+
+name:clasp
+usage:"Oh, dear! Oh, dear!" cried Dorothy, clasping her hands together in dismay. "The house must have fallen on her. Whatever shall we do?"
+
+name:sob
+usage:Dorothy began to sob at this, for she felt lonely among all these strange people.
+
+from:The wonderful wizard of oz by Frank Baum, 3 How Dorothy saved the scarecrow
+name:peg
+usage:Dorothy had only one other dress, but that happened to be clean and was hanging on a peg beside her bed.
+
+name:trot
+usage: And so, with Toto trotting along soberly behind her, she started on her journey.
+
+name:tinkle
+usage:Within a short time she was walking briskly toward the Emerald City, her silver shoes tinkling merrily on the hard, yellow road-bed.
+
+name:dainty
+usage:There were neat fences at the sides of the road, painted a dainty blue color, and beyond them were fields of grain and vegetables in abundance.
+
+name:fiddler
+usage:Five little fiddlers played as loudly as possible, and the people were laughing and singing, while a big table near by was loaded with delicious fruits and nuts, pies and cakes, and many other good things to eat.
+
+name:stalk
+usage: On the feet were some old boots with blue tops, such as every man wore in this country, and the figure was raised above the stalks of corn by means of the pole stuck up its back.
+
+name:husky
+usage:"Good day," said the Scarecrow, in a rather husky voice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

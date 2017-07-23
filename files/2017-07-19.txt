@@ -257,32 +257,198 @@ usage: On the feet were some old boots with blue tops, such as every man wore in
 name:husky
 usage:"Good day," said the Scarecrow, in a rather husky voice.
 
+from:The wonderful wizard of oz by Frank Baum, 4 The Road Through the Forest
+name: stumble
+usage:AFTER A FEW HOURS the road began to be rough, and the walking grew so difficult that the Scarecrow often stumbled over the yellow bricks, which were here very uneven. 
 
+name:mishap
+usage:It never hurt him, however, and Dorothy would pick him up and set him upon his feet again, while he joined her in laughing merrily at his own mishap.
 
+name: dismal, lonesome
+usage: There were fewer houses and fewer fruit trees, and the farther they went the more dismal and lonesome the country became.
 
+name: brook
+usage:At noon they sat down by the roadside, near a little brook, and Dorothy opened her basket and got out some bread.
 
+name: dreary
+usage:"No matter how dreary and gray our homes are, we people of flesh and blood would rather live there than in any other country, be it ever so beautiful. There is no place like home."
 
+name:hop, flock
+usage:Then he hopped down at my feet and ate all the corn he wanted. The other birds, seeing he was not harmed by me, came to eat the corn too, so in a short time there was a great flock of them about me.
 
+name:stake
+usage:By good luck you came along and pulled me off the stake, and from what you say I am sure the Great Oz will give me brains as soon as we get to the Emerald City.
 
+name:until
+usage:There were no fences at all by the roadside now, and the land was rough and untilled.
 
+from:The wonderful wizard of oz by Frank Baum, 5 The Rescue of the Tin Woodman
+name:stir
+usage:His head and arms and legs were jointed upon his body, but he stood perfectly motionless, as if he could not stir at all.
 
+name:snap
+usage:Dorothy looked at him in amazement, and so did the Scarecrow, while Toto barked sharply and made a snap at the tin legs, which hurt his teeth.
 
+name:enchant, daunt
+usage: After this the enchanted axe cut off my arms, one after the other; but, nothing daunted, I had them replaced with tin ones.
 
+name:rainstorm
+usage:However, there came a day when I forgot to do this, and, being caught in a rainstorm, before I thought of the danger my joints had rusted, and I was left to stand in the woods until you came to help me.
 
+from:The wonderful wizard of oz by Frank Baum, 6 The Cowardly Lion
+name:heedless, slap
+usage:Little Toto, now that he had an enemy to face, ran barking toward the Lion, and the great beast had opened his mouth to bite the dog, when Dorothy, fearing Toto would be killed, and heedless of danger, rushed forward and slapped the Lion upon his nose as hard as she could, while she cried out:
 
+name:blunt, scratch
+usage:"That's why he nearly blunted my claws," said the Lion. "When they scratched against the tin it made a cold shiver run down my back. What is that little animal you are so tender of?"
 
+name:stride
+usage:So once more the little company set off upon the journey, the Lion walking with stately strides at Dorothy's side. 
 
+name:mar
+usage:During the rest of that day there was no other adventure to mar the peace of their journey.
 
+name:hinge
+usage:These tears ran slowly down his face and over the hinges of his jaw, and there they rusted.
 
+name:toil
+usage:Thereafter he walked very carefully, with his eyes on the road, and when he saw a tiny ant toiling by he would step over it, so as not to harm it. 
 
+from:The wonderful wizard of oz by Frank Baum, 7 The Journey to the Great Oz
+name:snug
+usage:So he kept a good distance away from the flames, and only came near to cover Dorothy with dry leaves when she lay down to sleep. These kept her very snug and warm, and she slept soundly until morning.
 
+name:ditch, jagged
+usage:It was a very wide ditch, and when they crept up to the edge and looked into it they could see it was also very deep, and there were many big, jagged rocks at the bottom. The sides were so steep that none of them could climb down, and for a moment it seemed that their journey must end.
 
+name:gulf, dent
+usage:"I will," declared the Scarecrow, "for, if you found that you could not jump over the gulf, Dorothy would be killed, or the Tin Woodman badly dented on the rocks below. But if I am on your back it will not matter so much, for the fall would not hurt me at all."
 
+name:crouch
+usage:The Scarecrow sat upon the Lion's back, and the big beast walked to the edge of the gulf and crouched down.
 
+name:pant
+usage:and then they all sat down for a few moments to give the beast a chance to rest, for his great leaps had made his breath short, and he panted like a big dog that has been running too long.
 
+name:snarling
+usage: The Tin Woodman began to use his axe at once, and, just as the two Kalidahs were nearly across, the tree fell with a crash into the gulf, carrying the ugly, snarling brutes with it, and both were dashed to pieces on the sharp rocks at the bottom.
 
+name: meadow
+usage: On the other side of the water they could see the road of yellow brick running through a beautiful country, with green meadows dotted with bright flowers and all the road bordered with trees hanging full of delicious fruits.
 
+from:The wonderful wizard of oz by Frank Baum, 8 The Deadly Poppy Field
+name: beckon
+usage: Behind them was the dark forest they had passed safely through, although they had suffered many discouragements; but before them was a lovely, sunny country that seemed to beckon them on to the Emerald City.
 
+name:cling
+usage:Then, before he could pull it out again--or let go--the raft was swept away, and the poor Scarecrow was left clinging to the pole in the middle of the river.
+
+name:wistfully, stork
+usage:The Lion and the Woodman both shook their heads, for they did not know. So they sat down upon the bank and gazed wistfully at the Scarecrow until a Stork flew by, who, upon seeing them, stopped to rest at the water's edge.
+
+name:gay
+usage:When the Scarecrow found himself among his friends again, he was so happy that he hugged them all, even the Lion and Toto; and as they walked along he sang "Tol-de-ri-de-oh!" at every step, he felt so gay.
+
+name:poppy, dazzle
+usage:There were big yellow and white and blue and purple blossoms, besides great clusters of scarlet poppies, which were so brilliant in color they almost dazzled Dorothy's eyes.
+
+from:The wonderful wizard of oz by Frank Baum, 9 The Queen of the Field Mice
+name:clump
+usage:At this the Queen of the Mice stuck her head out from underneath a clump of grass and asked, in a timid voice, "Are you sure he will not bite us?"
+
+name:truck, limb
+usage:So the Woodman went at once to the trees and began to work; and he soon made a truck out of the limbs of trees, from which he chopped away all the leaves and branches.
+
+name:curtsy
+usage:"Permit me to introduce to you her Majesty, the Queen." Dorothy nodded gravely and the Queen made a curtsy, after which she became quite friendly with the little girl. 
+
+name:harness
+usage:Of course the truck was a thousand times bigger than any of the mice who were to draw it; but when all the mice had been harnessed, they were able to pull it quite easily. 
+
+name: scamper
+usage:Then the mice were unharnessed from the truck and scampered away through the grass to their homes. 
+
+from:The wonderful wizard of oz by Frank Baum, 10 The Guardian of the Gate
+name: emerald, peaked
+usage:The people were all dressed in clothing of a lovely emerald-green color and wore peaked hats like those of the Munchkins.
+
+name:porridge, scrambled
+usage:The woman now called to them that supper was ready, so they gathered around the table and Dorothy ate some delicious porridge and a dish of scrambled eggs and a plate of nice white bread, and enjoyed her meal.
+
+name:stud, glitter
+usage:In front of them, and at the end of the road of yellow brick, was a big gate, all studded with emeralds that glittered so in the sun that even the painted eyes of the Scarecrow were dazzled by their brilliancy.
+
+name: perplexity
+usage:"It has been many years since anyone asked me to see Oz," he said, shaking his head in perplexity. 
+
+name:errand
+usage:"But it is not a foolish errand, nor an idle one," replied the Scarecrow; "it is important. And we have been told that Oz is a good Wizard."
+
+from:The wonderful wizard of oz by Frank Baum, 11 The Wonderful City of Oz
+name:pane
+usage:The window panes were of green glass; even the sky above the City had a green tint, and the rays of the sun were green.
+
+name:cart
+usage:There seemed to be no horses nor animals of any kind; the men carried things around in little green carts, which they pushed before them.
+
+name:counterpane
+usage:It was the sweetest little room in the world, with a soft comfortable bed that had sheets of green silk and a green velvet counterpane. 
+
+name: brocaded
+usage:The next morning, after breakfast, the green maiden came to fetch Dorothy, and she dressed her in one of the prettiest gowns, made of green brocaded satin.
+
+name: gauze
+usage: She was dressed in green silk gauze and wore upon her flowing green locks a crown of jewels.
+
+name: bestow
+usage: If you will kill for me the Wicked Witch of the West, I will bestow upon you a great many brains, and such good brains that you will be the wisest man in all the Land of Oz.
+
+name: gruffly
+usage:Oz gave a low growl at this, but said, gruffly: "If you indeed desire a heart, you must earn it."
+
+name: cackling
+usage:They went to bed quite early and slept soundly until daylight, when they were awakened by the crowing of a green cock that lived in the back yard of the Palace, and the cackling of a hen that had laid a green egg.
+
+from:The wonderful wizard of oz by Frank Baum, 12 The Search for the Wicked Witch
+name: daisy, buttercup
+usage:They thanked him and bade him good-bye, and turned toward the West, walking over fields of soft grass dotted here and there with daisies and buttercups
+
+name: ribbon
+usage: The ribbon around Toto's neck had also lost its green color and was as white as Dorothy's dress.
+
+name:peck
+phrase:peck out
+usage:And the Wicked Witch said to the King Crow, "Fly at once to the strangers; peck out their eyes and tear them to pieces."
+
+name:forthwith, buzz, swarm
+usage:Forthwith there was heard a great buzzing in the air, and a swarm of black bees came flying toward her.
+
+name:scatter
+usage:"Take out my straw and scatter it over the little girl and the dog and the Lion," he said to the Woodman, "and the bees cannot sting them." This the Woodman did, and as Dorothy lay close beside the Lion and held Toto in her arms, the straw covered them entirely.
+
+name:stamp, gnash
+usage:The Wicked Witch was so angry when she saw her black bees in little heaps like fine coal that she stamped her foot and tore her hair and gnashed her teeth. 
+
+name:strap
+usage: When they returned to the castle the Wicked Witch beat them well with a strap, and sent them back to their work, after which she sat down to think what she should do next.
+
+name:batter
+usage:Here they dropped the poor Woodman, who fell a great distance to the rocks, where he lay so battered and dented that he could neither move nor groan.
+
+name:stout, coil
+usage:The remaining Monkeys threw pieces of stout rope around the Lion and wound many coils about his body and head and legs, until he was unable to bite or scratch or struggle in any way. 
+
+name:grin
+usage:The leader of the Winged Monkeys flew up to her, his long, hairy arms stretched out and his ugly face grinning terribly; but he saw the mark of the Good Witch's kiss upon her forehead and stopped short, motioning the others not to touch her.
+
+name:bid
+usage:Dorothy followed her through many of the beautiful rooms in her castle until they came to the kitchen, where the Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
+name:chariot
+usage:With Dorothy hard at work, the Witch thought she would go into the courtyard and harness the Cowardly Lion like a horse; it would amuse her, she was sure, to make him draw her chariot whenever she wished to go to drive. 
+
+name:cunning
+usage:But the wicked creature was very cunning, and she finally thought of a trick that would give her what she wanted.
 
 
 

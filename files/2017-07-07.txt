@@ -1,4 +1,4 @@
-﻿from: BBC 6 Minute English, miraculous survival
+from: BBC 6 Minute English, miraculous survival
 name: scaffold
 usage: they used a scaffold, which is a structure of interconnected pipes and boards that creates a frame or shape.
 
@@ -23,6 +23,7 @@ name: canoe
 usage: When I was 14 I fell out of a canoe into a river and got stuck between the boat and a rock with my head underwater.
 
 ====> anusa anissa <----
+------gupta--------
 name:clutch
 usage:Ah, you’re clutching at straws, Neil, which means you are trying to find a reason or hope to succeed when it’s extremely unlikely.
 phrase:clutch at straws

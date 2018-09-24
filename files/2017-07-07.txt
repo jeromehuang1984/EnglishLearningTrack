@@ -2,6 +2,8 @@ from: BBC 6 Minute English, miraculous survival
 name: scaffold
 usage: they used a scaffold, which is a structure of interconnected pipes and boards that creates a frame or shape.
 
+7 07 
+
 name:distraught, onlooker, alleyway
 usage:When firefighters arrived on the scene, they found a crowd of distraught onlookers points towards an alleyway.
 

@@ -4,6 +4,7 @@ usage: they used a scaffold, which is a structure of interconnected pipes and bo
 
 7 07 
 
+kpi, opec, transparent
 name:distraught, onlooker, alleyway
 usage:When firefighters arrived on the scene, they found a crowd of distraught onlookers points towards an alleyway.
 

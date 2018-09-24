@@ -1,8 +1,8 @@
-from: BBC 6 Minute English, miraculous survival
+﻿from: BBC 6 Minute English, miraculous survival
 name: scaffold
 usage: they used a scaffold, which is a structure of interconnected pipes and boards that creates a frame or shape.
 
-7 07 
+7 07 012 PI e
 
 kpi, opec, transparent
 name:distraught, onlooker, alleyway

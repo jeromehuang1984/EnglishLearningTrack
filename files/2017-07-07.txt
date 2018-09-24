@@ -19,6 +19,7 @@ usage: I don’t know what adjective you’d care to use: unprecedented, extraor
 name: canoe
 usage: When I was 14 I fell out of a canoe into a river and got stuck between the boat and a rock with my head underwater.
 
+====> anusa anissa <----
 name:clutch
 usage:Ah, you’re clutching at straws, Neil, which means you are trying to find a reason or hope to succeed when it’s extremely unlikely.
 phrase:clutch at straws
